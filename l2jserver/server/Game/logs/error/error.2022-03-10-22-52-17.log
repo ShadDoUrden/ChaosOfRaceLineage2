@@ -1,0 +1,3 @@
+[WARN ] 2022-03-10 22:52:33 IXmlReader: BuyListData: Folder E:\l2jserver\server\Game\data\buylists\custom doesn't exist!
+[WARN ] 2022-03-10 22:52:34 IXmlReader: MultisellData: Folder E:\l2jserver\server\Game\data\multisell\custom doesn't exist!
+[WARN ] 2022-03-10 23:48:27 LoginServerThread: LoginServer not avaible, trying to reconnect...

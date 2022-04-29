@@ -1,0 +1,684 @@
+[INFO ] 2022-04-05 22:14:33 GameServer: ------------------------------------------------=[ Database ]
+[INFO ] 2022-04-05 22:14:33 GameServer: -----------------------------------=[ Network Configuration ]
+[INFO ] 2022-04-05 22:14:33 IPConfigData: Using automatic network configuration.
+[INFO ] 2022-04-05 22:14:33 IPConfigData: Adding new subnet: 127.0.0.0/8 address: 127.0.0.1
+[INFO ] 2022-04-05 22:14:33 IPConfigData: Adding new subnet: 192.168.1.0/24 address: 192.168.1.22
+[INFO ] 2022-04-05 22:14:33 IPConfigData: Adding new subnet: 0.0.0.0/0 address: 90.63.83.82
+[INFO ] 2022-04-05 22:14:34 HikariDataSource: HikariPool-1 - Starting...
+[INFO ] 2022-04-05 22:14:34 HikariDataSource: HikariPool-1 - Start completed.
+[INFO ] 2022-04-05 22:14:34 IdFactory: Updated characters online status.
+[INFO ] 2022-04-05 22:14:34 IdFactory: Cleaned 0 elements from database in 0s.
+[INFO ] 2022-04-05 22:14:34 IdFactory: Cleaned 0 expired timestamps from database.
+[INFO ] 2022-04-05 22:14:34 BitSetIDFactory: 102912 Ids available.
+[INFO ] 2022-04-05 22:14:34 GameServer: ---------------------------------------------------=[ World ]
+[INFO ] 2022-04-05 22:14:34 InstanceManager: Multiverse Instance created.
+[INFO ] 2022-04-05 22:14:34 InstanceManager: Universe Instance created.
+[INFO ] 2022-04-05 22:14:34 InstanceManager: Loaded 160 instance names.
+[INFO ] 2022-04-05 22:14:34 L2World: 128 by 136 world region grid set up.
+[INFO ] 2022-04-05 22:14:34 MapRegionManager: Loaded 57 map regions.
+[INFO ] 2022-04-05 22:14:34 GlobalVariablesManager: Loaded 8 variables.
+[INFO ] 2022-04-05 22:14:34 GameServer: ----------------------------------------------------=[ Data ]
+[INFO ] 2022-04-05 22:14:34 CategoryData: Loaded 124 Categories.
+[INFO ] 2022-04-05 22:14:34 SecondaryAuthData: Loaded 328 forbidden passwords.
+[INFO ] 2022-04-05 22:14:34 GameServer: -------------------------------------------------=[ Effects ]
+[INFO ] 2022-04-05 22:14:36 EffectMasterHandler: Loaded 169 effect handlers.
+[INFO ] 2022-04-05 22:14:36 GameServer: ------------------------------------=[ Enchant Skill Groups ]
+[INFO ] 2022-04-05 22:14:36 EnchantSkillGroupsData: Loaded 4 groups and 90 routes.
+[INFO ] 2022-04-05 22:14:36 GameServer: ---------------------------------------------=[ Skill Trees ]
+[INFO ] 2022-04-05 22:14:36 SkillTreesData: Loaded 17176 Class Skills for 103 Class Skill Trees.
+[INFO ] 2022-04-05 22:14:36 SkillTreesData: Loaded 76 Sub-Class Skills.
+[INFO ] 2022-04-05 22:14:36 SkillTreesData: Loaded 77 Transfer Skills for 3 Transfer Skill Trees.
+[INFO ] 2022-04-05 22:14:36 SkillTreesData: Loaded 117 Fishing Skills, 8 Dwarven only Fishing Skills.
+[INFO ] 2022-04-05 22:14:36 SkillTreesData: Loaded 3 Collect Skills.
+[INFO ] 2022-04-05 22:14:36 SkillTreesData: Loaded 74 Pledge Skills, 44 for Pledge and 30 Residential.
+[INFO ] 2022-04-05 22:14:36 SkillTreesData: Loaded 18 Sub-Pledge Skills.
+[INFO ] 2022-04-05 22:14:36 SkillTreesData: Loaded 32 Transform Skills.
+[INFO ] 2022-04-05 22:14:36 SkillTreesData: Loaded 8 Noble Skills.
+[INFO ] 2022-04-05 22:14:36 SkillTreesData: Loaded 5 Hero Skills.
+[INFO ] 2022-04-05 22:14:36 SkillTreesData: Loaded 46 Game Master Skills.
+[INFO ] 2022-04-05 22:14:36 SkillTreesData: Loaded 46 Game Master Aura Skills.
+[INFO ] 2022-04-05 22:14:36 GameServer: --------------------------------------------------=[ Skills ]
+[INFO ] 2022-04-05 22:14:45 DocumentEngine: Loaded 65976 skill templates from XML files.
+[INFO ] 2022-04-05 22:14:45 SummonSkillsTable: Loaded 1891 summon skills.
+[INFO ] 2022-04-05 22:14:45 GameServer: ---------------------------------------------------=[ Items ]
+[INFO ] 2022-04-05 22:14:46 ItemTable: Highest item Id used 22567.
+[INFO ] 2022-04-05 22:14:46 ItemTable: Loaded 11481 Etc items.
+[INFO ] 2022-04-05 22:14:46 ItemTable: Loaded 3825 Armor items.
+[INFO ] 2022-04-05 22:14:46 ItemTable: Loaded 3893 Weapon items.
+[INFO ] 2022-04-05 22:14:46 ItemTable: Loaded 19199 items in total.
+[INFO ] 2022-04-05 22:14:46 EnchantItemGroupsData: Loaded 4 item group templates.
+[INFO ] 2022-04-05 22:14:46 EnchantItemGroupsData: Loaded 1 scroll group templates.
+[INFO ] 2022-04-05 22:14:46 EnchantItemData: Loaded 63 enchant scrolls.
+[INFO ] 2022-04-05 22:14:46 EnchantItemData: Loaded 20 support items.
+[INFO ] 2022-04-05 22:14:46 EnchantItemOptionsData: Loaded 23 items and 1093 options.
+[INFO ] 2022-04-05 22:14:46 OptionData: Loaded 24985 item options.
+[INFO ] 2022-04-05 22:14:46 EnchantItemHPBonusData: Loaded 6 Enchant HP Bonuses.
+[INFO ] 2022-04-05 22:14:46 MerchantPriceConfigTable: Loaded 28 merchant price configs.
+[WARN ] 2022-04-05 22:14:47 IXmlReader: BuyListData: Folder E:\l2jserver\server\Game\data\buylists\custom doesn't exist!
+[INFO ] 2022-04-05 22:14:47 BuyListData: Loaded 760 buy lists.
+[WARN ] 2022-04-05 22:14:47 IXmlReader: MultisellData: Folder E:\l2jserver\server\Game\data\multisell\custom doesn't exist!
+[INFO ] 2022-04-05 22:14:47 MultisellData: Loaded 192 multisell lists.
+[INFO ] 2022-04-05 22:14:47 RecipeData: Loaded 1000 recipes.
+[INFO ] 2022-04-05 22:14:47 ArmorSetsData: Loaded 204 armor sets.
+[INFO ] 2022-04-05 22:14:47 FishData: Loaded 278 fish.
+[INFO ] 2022-04-05 22:14:47 FishingMonstersData: Loaded 8 fishing monsters.
+[INFO ] 2022-04-05 22:14:47 FishingRodsData: Loaded 6 fishing rods.
+[INFO ] 2022-04-05 22:14:47 HennaData: Loaded 180 Henna data.
+[INFO ] 2022-04-05 22:14:47 GameServer: ----------------------------------------------=[ Characters ]
+[INFO ] 2022-04-05 22:14:47 ClassListData: Loaded 107 class data.
+[INFO ] 2022-04-05 22:14:47 InitialEquipmentData: Loaded 11 initial equipment data.
+[INFO ] 2022-04-05 22:14:47 InitialShortcutData: Loaded 5 initial dlobal shortcuts data.
+[INFO ] 2022-04-05 22:14:47 InitialShortcutData: Loaded 4 initial shortcuts data.
+[INFO ] 2022-04-05 22:14:47 InitialShortcutData: Loaded 0 macros presets.
+[INFO ] 2022-04-05 22:14:47 KarmaData: Loaded 85 karma modifiers.
+[INFO ] 2022-04-05 22:14:47 HitConditionBonusData: Loaded Hit Condition bonuses.
+[INFO ] 2022-04-05 22:14:47 PlayerTemplateData: Loaded 103 character templates.
+[INFO ] 2022-04-05 22:14:47 PlayerTemplateData: Loaded 52530 level up gain records.
+[INFO ] 2022-04-05 22:14:47 PlayerCreationPointData: Loaded 62 character creation points.
+[INFO ] 2022-04-05 22:14:47 CharNameTable: Loaded 1 char names.
+[INFO ] 2022-04-05 22:14:47 AdminData: Loaded 10 access levels.
+[INFO ] 2022-04-05 22:14:47 AdminData: Loaded 444 access commands.
+[INFO ] 2022-04-05 22:14:47 RaidBossPointsManager: Loaded 0 characters raid points.
+[INFO ] 2022-04-05 22:14:47 PetDataTable: Loaded 52 Pets.
+[INFO ] 2022-04-05 22:14:47 GameServer: -----------------------------------------------------=[ BBS ]
+[INFO ] 2022-04-05 22:14:47 ForumsBBSManager: Loaded 4 forums.
+[INFO ] 2022-04-05 22:14:47 GameServer: ---------------------------------------------------=[ Clans ]
+[INFO ] 2022-04-05 22:14:47 ClanTable: Restored 0 clans from the database.
+[INFO ] 2022-04-05 22:14:47 AuctionManager: Loaded 38 auction(s).
+[INFO ] 2022-04-05 22:14:47 ClanHallManager: Loaded 0 clan halls.
+[INFO ] 2022-04-05 22:14:47 ClanHallManager: Loaded 38 free clan halls.
+[INFO ] 2022-04-05 22:14:47 ClanHallSiegeManager: Loaded 6 conquerable clan halls.
+[INFO ] 2022-04-05 22:14:47 GameServer: -------------------------------------------------=[ Geodata ]
+[INFO ] 2022-04-05 22:14:47 GeoData: Loaded 0 regions.
+[INFO ] 2022-04-05 22:14:47 GameServer: ----------------------------------------------------=[ NPCs ]
+[INFO ] 2022-04-05 22:14:47 SkillLearnData: Loaded 256 skill learn data.
+[INFO ] 2022-04-05 22:14:47 NpcData$MinionData: Loaded 128 minions data.
+[INFO ] 2022-04-05 22:14:49 NpcData: Loaded 10461 NPCs.
+[INFO ] 2022-04-05 22:14:49 NpcData: Loaded 10 custom NPCs.
+[INFO ] 2022-04-05 22:14:49 WalkingManager: Loaded 127 walking routes.
+[INFO ] 2022-04-05 22:14:49 StaticObjectData: Loaded 51 static object templates.
+[INFO ] 2022-04-05 22:14:50 GrandBossManager: Queen Ant (29001) status is 0.
+[INFO ] 2022-04-05 22:14:50 GrandBossManager: Core (29006) status is 0.
+[INFO ] 2022-04-05 22:14:50 GrandBossManager: Orfen (29014) status is 0.
+[INFO ] 2022-04-05 22:14:50 GrandBossManager: Baium (29020) status is 0.
+[INFO ] 2022-04-05 22:14:50 GrandBossManager: Valakas (29028) status is 0.
+[INFO ] 2022-04-05 22:14:50 GrandBossManager: Antharas (29068) status is 0.
+[INFO ] 2022-04-05 22:14:50 GrandBossManager: Beleth (29118) status is 0.
+[INFO ] 2022-04-05 22:14:50 GrandBossManager: Loaded 7 grand boss instances.
+[INFO ] 2022-04-05 22:14:51 DoorData: Loaded 1301 door templates for 22 regions.
+[INFO ] 2022-04-05 22:14:51 ZoneManager: Loaded 28 zone classes and 2794 zones.
+[INFO ] 2022-04-05 22:14:51 ZoneManager: Loaded 0 NPC spawn territoriers.
+[INFO ] 2022-04-05 22:14:51 CastleManager: Loaded 9 castles.
+[INFO ] 2022-04-05 22:14:51 NpcBufferTable: Loaded 2 buffers and 64 skills.
+[INFO ] 2022-04-05 22:14:51 GrandBossManager: Initialized 12 grand boss zones.
+[INFO ] 2022-04-05 22:14:51 GameServer: -----------------------------------------=[ Auction Manager ]
+[INFO ] 2022-04-05 22:14:51 ItemAuctionInstance: Loaded 82 item(s) and registered 3 auction(s) for NPC ID 32320.
+[INFO ] 2022-04-05 22:14:51 ItemAuctionInstance: Schedule next auction ID 15 on 17:00:00 08.04.22 for NPC ID 32320.
+[INFO ] 2022-04-05 22:14:51 ItemAuctionInstance: Loaded 82 item(s) and registered 3 auction(s) for NPC ID 32321.
+[INFO ] 2022-04-05 22:14:51 ItemAuctionInstance: Schedule next auction ID 16 on 17:00:00 11.04.22 for NPC ID 32321.
+[INFO ] 2022-04-05 22:14:51 ItemAuctionInstance: Loaded 82 item(s) and registered 3 auction(s) for NPC ID 32322.
+[INFO ] 2022-04-05 22:14:51 ItemAuctionInstance: Schedule next auction ID 14 on 17:00:00 06.04.22 for NPC ID 32322.
+[INFO ] 2022-04-05 22:14:51 ItemAuctionManager: Loaded 3 auction manager instance(s).
+[INFO ] 2022-04-05 22:14:51 GameServer: ------------------------------------------------=[ Olympiad ]
+[INFO ] 2022-04-05 22:14:51 Olympiad: Loading Olympiad System....
+[INFO ] 2022-04-05 22:14:51 Olympiad: Currently in Olympiad Period
+[INFO ] 2022-04-05 22:14:51 Olympiad: 36825 minutes until period ends
+[INFO ] 2022-04-05 22:14:51 Olympiad: Next weekly change is in 5692 minutes
+[INFO ] 2022-04-05 22:14:51 Olympiad: Loaded 0 Nobles
+[INFO ] 2022-04-05 22:14:51 Olympiad: Competition Period Starts in 0 days, 0 hours and 0 mins.
+[INFO ] 2022-04-05 22:14:51 Olympiad: Event starts/started : Tue Apr 05 18:00:51 CEST 2022
+[INFO ] 2022-04-05 22:14:51 Hero: Loaded 0 Heroes.
+[INFO ] 2022-04-05 22:14:51 Hero: Loaded 0 all time Heroes.
+[INFO ] 2022-04-05 22:14:51 GameServer: ---------------------------------------------=[ Seven Signs ]
+[INFO ] 2022-04-05 22:14:51 SevenSigns: Currently in the Seal Validation period.
+[INFO ] 2022-04-05 22:14:51 SevenSigns: The Seal of Avarice remains unclaimed.
+[INFO ] 2022-04-05 22:14:51 SevenSigns: The Seal of Gnosis remains unclaimed.
+[INFO ] 2022-04-05 22:14:51 SevenSigns: The Seal of Strife remains unclaimed.
+[INFO ] 2022-04-05 22:14:51 SevenSigns: The competition ended with a tie last week.
+[INFO ] 2022-04-05 22:14:51 SevenSigns: Next period change set to 2022-04-11T18:00:51.768+0200.
+[INFO ] 2022-04-05 22:14:51 SevenSigns: Next period begins in 5 days, 19 hours and 45 mins.
+[INFO ] 2022-04-05 22:14:51 GameServer: ---------------------------------------------------=[ Cache ]
+[INFO ] 2022-04-05 22:14:51 HtmCache: Running lazy cache.
+[INFO ] 2022-04-05 22:14:51 CrestTable: Loaded 0 crests.
+[INFO ] 2022-04-05 22:14:51 TeleportLocationTable: Loaded 957 teleport location templates.
+[INFO ] 2022-04-05 22:14:51 UIData: Loaded 4 keys 5 categories.
+[INFO ] 2022-04-05 22:14:51 Olympiad: Olympiad Game Started
+[INFO ] 2022-04-05 22:14:51 OlympiadGameManager: Loaded 160 stadiums.
+[INFO ] 2022-04-05 22:14:51 AugmentationData: Loaded 33960 augmentations.
+[INFO ] 2022-04-05 22:14:51 AugmentationData: Loaded 2754 accessory augmentations.
+[INFO ] 2022-04-05 22:14:51 CursedWeaponsManager: Loaded 2 cursed weapon(s).
+[INFO ] 2022-04-05 22:14:52 TransformData: Loaded 111 transform templates.
+[INFO ] 2022-04-05 22:14:52 BotReportTable: Loaded 0 bot reports.
+[INFO ] 2022-04-05 22:14:52 AirShipManager: Loaded 0 private airships.
+[INFO ] 2022-04-05 22:14:52 GameServer: ------------------------------------------------=[ Handlers ]
+[INFO ] 2022-04-05 22:14:53 MasterHandler: Loaded 5 Voiced Command Handler.
+[INFO ] 2022-04-05 22:14:53 MasterHandler: Loaded 10 Action Handler.
+[INFO ] 2022-04-05 22:14:53 MasterHandler: Loaded 6 Action Shift Handler.
+[INFO ] 2022-04-05 22:14:53 MasterHandler: Loaded 447 Admin Command Handler.
+[INFO ] 2022-04-05 22:14:53 MasterHandler: Loaded 48 Bypass Handler.
+[INFO ] 2022-04-05 22:14:53 MasterHandler: Loaded 14 Chat Handler.
+[INFO ] 2022-04-05 22:14:53 MasterHandler: Loaded 15 Community Board Handler.
+[INFO ] 2022-04-05 22:14:53 MasterHandler: Loaded 31 Item Handler.
+[INFO ] 2022-04-05 22:14:53 MasterHandler: Loaded 3 Punishment Handler.
+[INFO ] 2022-04-05 22:14:53 MasterHandler: Loaded 17 User Command Handler.
+[INFO ] 2022-04-05 22:14:53 MasterHandler: Loaded 20 Telnet Handler.
+[INFO ] 2022-04-05 22:14:53 GameServer: ------------------------------------------------------=[ AI ]
+[INFO ] 2022-04-05 22:14:55 NpcBuffersData: Loaded 33 buffers data.
+[INFO ] 2022-04-05 22:14:55 HandysBlockCheckerEvent: Loaded Handy's Block Checker event.
+[INFO ] 2022-04-05 22:14:55 AILoader: Loaded 179 AI scripts.
+[INFO ] 2022-04-05 22:14:55 GameServer: -----------------------------------------------=[ Instances ]
+[INFO ] 2022-04-05 22:14:57 InstanceLoader: Loaded 30 instnaces.
+[INFO ] 2022-04-05 22:14:57 GameServer: --------------------------------------------------=[ Gracia ]
+[INFO ] 2022-04-05 22:14:57 GraciaLoader: Loaded 28 Gracia scripts.
+[INFO ] 2022-04-05 22:14:57 GameServer: -----------------------------------------------=[ Hellbound ]
+[INFO ] 2022-04-05 22:14:58 HellboundPointData: Loaded 47 trust point reward data.
+[INFO ] 2022-04-05 22:14:58 HellboundSpawns: Loaded 598 Hellbound spawns.
+[INFO ] 2022-04-05 22:14:58 HellboundEngine: Level 9.
+[INFO ] 2022-04-05 22:14:58 HellboundEngine: Trust 2000001.
+[INFO ] 2022-04-05 22:14:58 HellboundEngine: Status unlocked.
+[INFO ] 2022-04-05 22:14:58 RaidBossSpawnManager: Spawning raid bosses...
+[INFO ] 2022-04-05 22:14:58 RaidBossSpawnManager: Loaded 1 bosses.
+[INFO ] 2022-04-05 22:14:58 RaidBossSpawnManager: Scheduled 0 boss instances.
+[INFO ] 2022-04-05 22:14:58 HellboundLoader: Loaded 34 Hellbound scripts.
+[INFO ] 2022-04-05 22:14:58 GameServer: --------------------------------------------------=[ Quests ]
+[INFO ] 2022-04-05 22:14:59 HellboundEngine: Spawned 366 NPCs.
+[INFO ] 2022-04-05 22:15:05 Q00350_EnhanceYourWeapon: Loaded 54 soul crystal data.
+[INFO ] 2022-04-05 22:15:05 Q00350_EnhanceYourWeapon: Loaded 240 npc leveling data.
+[INFO ] 2022-04-05 22:15:05 QuestLoader: Loaded 502 quests.
+[INFO ] 2022-04-05 22:15:05 AbstractScript: TerritoryWarSuperClass: Siege date: Sun Apr 10 22:00:00 CEST 2022
+[INFO ] 2022-04-05 22:15:05 GameServer: -------------------------------------------------=[ Scripts ]
+[INFO ] 2022-04-05 22:15:06 ClanHallSiegeEngine: Fortress of the Dead siege scheduled for 2022-04-17T12:00:00.293+0200.
+[INFO ] 2022-04-05 22:15:06 DiscordBot: Discord Bot is Disabled.
+[INFO ] 2022-04-05 22:15:06 ClanHallSiegeEngine: Beast Farm siege scheduled for 2022-04-17T12:00:00.295+0200.
+[INFO ] 2022-04-05 22:15:06 ClanHallSiegeEngine: Rainbow Springs siege scheduled for 2022-04-17T12:00:00.291+0200.
+[INFO ] 2022-04-05 22:15:06 TeleporterService: Disabled.
+[INFO ] 2022-04-05 22:15:06 BufferService: Disabled.
+[INFO ] 2022-04-05 22:15:06 ClanHallSiegeEngine: Bandit Stronghold siege scheduled for 2022-04-17T12:00:00.295+0200.
+[INFO ] 2022-04-05 22:15:06 ClanHallSiegeEngine: Devastated Castle siege scheduled for 2022-04-17T12:00:00.291+0200.
+[INFO ] 2022-04-05 22:15:06 ClanHallSiegeEngine: Fortress of Resistance siege scheduled for 2022-04-17T12:00:00.162+0200.
+[INFO ] 2022-04-05 22:15:06 SpawnTable: Loaded 61 NPC spawns.
+[INFO ] 2022-04-05 22:15:06 SpawnTable: Loaded 0 custom NPC spawns.
+[INFO ] 2022-04-05 22:15:06 SpawnTable: Loaded 1190 NPC spawns from XML.
+[INFO ] 2022-04-05 22:15:06 FourSepulchersManager: Loaded 20 Mysterious-Box spawns.
+[INFO ] 2022-04-05 22:15:06 FourSepulchersManager: Loaded 716 Physical type monsters spawns.
+[INFO ] 2022-04-05 22:15:06 FourSepulchersManager: Loaded 716 Magical monsters spawns.
+[INFO ] 2022-04-05 22:15:06 FourSepulchersManager: Loaded 92 Church of duke monsters spawns.
+[INFO ] 2022-04-05 22:15:06 FourSepulchersManager: Loaded 68 Emperor's Grave spawns.
+[INFO ] 2022-04-05 22:15:06 FourSepulchersManager: Spawned Conquerors' Sepulcher Manager.
+[INFO ] 2022-04-05 22:15:06 FourSepulchersManager: Spawned Emperors' Sepulcher Manager.
+[INFO ] 2022-04-05 22:15:06 FourSepulchersManager: Spawned Great Sages' Sepulcher Manager.
+[INFO ] 2022-04-05 22:15:06 FourSepulchersManager: Spawned Judges' Sepulcher Manager.
+[INFO ] 2022-04-05 22:15:06 FourSepulchersManager: Beginning in attack time.
+[INFO ] 2022-04-05 22:15:06 DimensionalRiftManager: Loaded 7 room types with 56 rooms.
+[INFO ] 2022-04-05 22:15:06 DimensionalRiftManager: Loaded 462 Dimensional Rift spawns.
+[INFO ] 2022-04-05 22:15:06 GameServer: ---------------------------------------------------=[ Siege ]
+[INFO ] 2022-04-05 22:15:06 Siege: Siege of Gludio: 2022-04-10T16:00:00.111+0200.
+[INFO ] 2022-04-05 22:15:06 Siege: Siege of Dion: 2022-04-10T16:00:00.115+0200.
+[INFO ] 2022-04-05 22:15:06 Siege: Siege of Giran: 2022-04-10T16:00:00.116+0200.
+[INFO ] 2022-04-05 22:15:06 Siege: Siege of Oren: 2022-04-10T16:00:00.118+0200.
+[INFO ] 2022-04-05 22:15:06 Siege: Siege of Aden: 2022-04-10T16:00:00.119+0200.
+[INFO ] 2022-04-05 22:15:06 Siege: Siege of Innadril: 2022-04-10T20:00:00.120+0200.
+[INFO ] 2022-04-05 22:15:06 Siege: Siege of Goddard: 2022-04-10T20:00:00.121+0200.
+[INFO ] 2022-04-05 22:15:06 Siege: Siege of Rune: 2022-04-10T20:00:00.122+0200.
+[INFO ] 2022-04-05 22:15:06 Siege: Siege of Schuttgart: 2022-04-10T20:00:00.123+0200.
+[INFO ] 2022-04-05 22:15:06 FortManager: Loaded 21 fortress.
+[INFO ] 2022-04-05 22:15:06 SiegeScheduleData: Loaded 2 siege schedulers.
+[INFO ] 2022-04-05 22:15:06 CastleManorManager: Loaded 258 seeds.
+[INFO ] 2022-04-05 22:15:06 CastleManorManager: Manor data loaded.
+[INFO ] 2022-04-05 22:15:06 MercTicketManager: Loaded 0 mercenary tickets.
+[INFO ] 2022-04-05 22:15:06 AutoSpawnHandler: Loaded 129 handlers.
+[INFO ] 2022-04-05 22:15:06 SevenSignsFestival: Initialization bypassed due to Seal Validation in effect.
+[INFO ] 2022-04-05 22:15:06 FaenorEventParser: Event Id Valentines Event has passed... Ignored.
+[INFO ] 2022-04-05 22:15:06 FaenorScriptEngine: Loaded Valentines.xml successfully.
+[INFO ] 2022-04-05 22:15:06 TaskManager: Loaded 13 tasks.
+[INFO ] 2022-04-05 22:15:06 MailManager: Successfully loaded 0 messages.
+[INFO ] 2022-04-05 22:15:06 PunishmentManager: Loaded 0 active and 0 expired punishments.
+[INFO ] 2022-04-05 22:15:06 GameServer: Free Object Ids remaining 1879043754.
+[INFO ] 2022-04-05 22:15:06 TvTManager: Engine is disabled.
+[INFO ] 2022-04-05 22:15:06 GameServer: Started, free memory 1823 Mb of 2048 Mb
+[INFO ] 2022-04-05 22:15:06 LoginServerThread: Connecting to login server on 127.0.0.1:9014
+[INFO ] 2022-04-05 22:15:06 LoginServerThread: Registered on login as Server 1: Bartz
+[INFO ] 2022-04-05 22:15:06 GameServer: Now listening on *:7777
+[INFO ] 2022-04-05 22:15:06 GameServer: ----------------------------------------------------=[ UPnP ]
+[INFO ] 2022-04-05 22:15:06 UPnPService: Looking for UPnP Gateway Devices...
+[INFO ] 2022-04-05 22:15:06 UPnPService: Using UPnP gateway: Orange Livebox
+[INFO ] 2022-04-05 22:15:06 UPnPService: Using local address: 192.168.1.22 External address: 90.63.83.82
+[INFO ] 2022-04-05 22:15:06 UPnPService: Mapping successful on 192.168.1.22:7777
+[INFO ] 2022-04-05 22:15:06 GameServer: Telnet server is currently disabled.
+[INFO ] 2022-04-05 22:15:06 GameServer: Maximum numbers of connected players 500.
+[INFO ] 2022-04-05 22:15:06 GameServer: Server Bartz loaded in 33 seconds.
+[INFO ] 2022-04-05 22:15:36 L2PcInstance: Master access level set for character Gmtech [268481866].
+[INFO ] 2022-04-05 22:23:26 GlobalVariablesManager: Stored 8 variables.
+[INFO ] 2022-04-05 22:30:06 TaskOlympiadSave: Data updated.
+[INFO ] 2022-04-05 22:45:06 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-05 22:46:38 L2PcInstance: Master access level set for character Gmtech [268481866].
+[INFO ] 2022-04-05 23:00:06 TaskOlympiadSave: Data updated.
+[INFO ] 2022-04-05 23:15:06 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-05 23:30:06 TaskOlympiadSave: Data updated.
+[INFO ] 2022-04-05 23:45:06 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 00:00:06 TaskOlympiadSave: Data updated.
+[INFO ] 2022-04-06 00:00:51 Olympiad: Olympiad Game Ended
+[INFO ] 2022-04-06 00:00:51 Olympiad: Competition Period Starts in 0 days, 18 hours and 0 mins.
+[INFO ] 2022-04-06 00:00:51 Olympiad: Event starts/started : Wed Apr 06 18:00:51 CEST 2022
+[INFO ] 2022-04-06 00:15:06 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 00:45:06 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 01:15:06 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 05:38:12 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 05:38:14 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 05:38:14 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 05:38:14 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 05:38:14 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 05:38:14 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 05:38:14 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 05:38:14 TaskSevenSignsUpdate: Data updated successfully.
+[WARN ] 2022-04-06 05:38:15 HikariPool: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4h4m12s79ms66탎200ns).
+[INFO ] 2022-04-06 05:45:04 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 09:24:53 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 09:24:53 TaskBirthday: 0 gifts sent.
+[INFO ] 2022-04-06 09:24:53 TaskDailySkillReuseClean: Daily skill reuse cleaned.
+[INFO ] 2022-04-06 09:24:53 TaskHuntingSystem: Hunting System reseted.
+[INFO ] 2022-04-06 09:24:53 TaskRecom: Recommendations System reseted.
+[INFO ] 2022-04-06 09:24:53 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 09:24:54 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 09:24:54 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 09:24:54 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 09:24:54 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 09:24:54 TaskSevenSignsUpdate: Data updated successfully.
+[WARN ] 2022-04-06 09:24:58 HikariPool: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h16m42s844ms522탎800ns).
+[INFO ] 2022-04-06 09:45:04 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 10:40:04 TaskSevenSignsUpdate: Data updated successfully.
+[WARN ] 2022-04-06 10:40:08 HikariPool: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=41m40s4ms627탎800ns).
+[INFO ] 2022-04-06 10:45:04 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 11:15:04 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 11:45:04 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 12:15:04 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 18:36:49 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 18:36:49 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 18:36:49 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 18:36:49 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 18:36:49 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 18:36:49 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 18:36:49 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 18:36:49 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 18:36:49 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 18:36:49 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 18:36:49 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 18:36:49 Olympiad: Olympiad Game Started
+[INFO ] 2022-04-06 18:36:49 TaskSevenSignsUpdate: Data updated successfully.
+[WARN ] 2022-04-06 18:36:49 HikariPool: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6h8m40s497ms754탎400ns).
+[INFO ] 2022-04-06 18:36:49 TaskOlympiadSave: Data updated.
+[INFO ] 2022-04-06 18:36:50 ItemAuctionInstance$ScheduleAuctionTask: Auction ID 14 has started for NPC ID 32322.
+[INFO ] 2022-04-06 18:36:50 ItemAuctionInstance: Schedule current auction ID 14 for NPC ID 32322.
+[INFO ] 2022-04-06 18:45:04 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-06 19:00:04 TaskOlympiadSave: Data updated.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@4a0e5629 ((conn=4872) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@4e94686c ((conn=4873) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@40538fce ((conn=4874) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@446c031c ((conn=4875) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@16e85f5 ((conn=4876) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@6cd45abc ((conn=4877) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@30258517 ((conn=4878) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@147504ec ((conn=4879) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@61417aba ((conn=4880) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@2f8edd94 ((conn=4881) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@331fe84f ((conn=4882) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@f71c8a4 ((conn=4883) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@650fe75a ((conn=4884) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@3c34f412 ((conn=4885) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@70253e4b ((conn=4886) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@7110ec03 ((conn=4887) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@6b3fe04c ((conn=4888) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@70301d5d ((conn=4889) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@29beb276 ((conn=4890) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@5f3823b6 ((conn=4891) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@4b91959d ((conn=4892) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@3b3ba347 ((conn=4893) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@674a9b54 ((conn=4894) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@79f13198 ((conn=4895) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@3e8b7e46 ((conn=4896) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@58ccc34b ((conn=4897) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@6bef633d ((conn=4898) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@1b62f229 ((conn=4899) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@27f9e6db ((conn=4912) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@580329dc ((conn=4911) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@561ea395 ((conn=4909) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[INFO ] 2022-04-07 08:13:27 OlympiadGameManager: All current games finished.
+[INFO ] 2022-04-07 08:13:27 Olympiad: Olympiad Game Ended
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@4e68519f ((conn=4913) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@77a3db60 ((conn=4907) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@6dc951cc ((conn=4914) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@208bf1c6 ((conn=4906) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@54cb5b19 ((conn=4905) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@5c0fa27b ((conn=4904) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@50f0f1f6 ((conn=4903) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@40968452 ((conn=4901) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@38b98e7a ((conn=4920) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:27 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@7e7ec64d ((conn=4900) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@3dbfd59 ((conn=4924) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@74124657 ((conn=4927) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@11d58447 ((conn=4930) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@488a79a7 ((conn=4917) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@44622c1d ((conn=4916) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[INFO ] 2022-04-07 08:13:29 OlympiadGameManager: All current games finished.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@2cc5c860 ((conn=4915) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@255bd80b ((conn=4933) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@779358d4 ((conn=4932) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@748eadf9 ((conn=4929) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@71ad7f21 ((conn=4938) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@60f72d53 ((conn=4939) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@59cd9ba6 ((conn=4940) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@1bc4e7e3 ((conn=4941) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@10ad7cd ((conn=4942) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@28ff5cb9 ((conn=4928) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@7873b9a6 ((conn=4926) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@77e56906 ((conn=4925) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@1c820de2 ((conn=4923) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@23658f8b ((conn=4921) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@6d6e550e ((conn=4919) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@51d43184 ((conn=4951) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@4ee967d4 ((conn=4952) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@6f6a164b ((conn=4918) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@2dd8c350 ((conn=4949) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@1e72671f ((conn=4948) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@29d6ce84 ((conn=4947) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@6cf57f8 ((conn=4946) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@512c56af ((conn=4945) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@6d6b4f1e ((conn=4944) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@58ceff0a ((conn=4943) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@f29ac50 ((conn=4937) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@4bc7e343 ((conn=4964) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@7087f1a0 ((conn=4965) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@130c025d ((conn=4966) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@19710740 ((conn=4935) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@243b483c ((conn=4934) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@74c9b942 ((conn=4936) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@40950fd0 ((conn=4967) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@6fa79db9 ((conn=4963) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@59c745e8 ((conn=4960) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@7a38387b ((conn=4959) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@5dfd656c ((conn=4957) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@582f7e7a ((conn=4956) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@6bb9efa9 ((conn=4958) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@280732ef ((conn=4954) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@dc2e1e ((conn=4973) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@73069fee ((conn=4975) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@b6246b3 ((conn=4977) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@43aebb89 ((conn=4953) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@22bd79d6 ((conn=4980) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@7676188f ((conn=4978) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@31481040 ((conn=4979) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@6a2f3936 ((conn=4976) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@29da9676 ((conn=4974) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@35f588b0 ((conn=4972) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@60175239 ((conn=4971) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@8143764 ((conn=4970) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@7bf9dcac ((conn=4969) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 08:13:29 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@343c217a ((conn=4968) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[INFO ] 2022-04-07 08:13:29 TaskHuntingSystem: Hunting System reseted.
+[INFO ] 2022-04-07 08:13:29 Olympiad: Competition Period Starts in 0 days, 9 hours and 47 mins.
+[INFO ] 2022-04-07 08:13:29 Olympiad: Event starts/started : Thu Apr 07 18:00:29 CEST 2022
+[INFO ] 2022-04-07 08:13:29 TaskBirthday: 0 gifts sent.
+[INFO ] 2022-04-07 08:13:29 TaskRecom: Recommendations System reseted.
+[INFO ] 2022-04-07 08:13:29 ItemAuctionInstance: Auction ID 14 has finished. There have not been any bid for instance ID 32322.
+[INFO ] 2022-04-07 08:13:29 TaskOlympiadSave: Data updated.
+[INFO ] 2022-04-07 08:13:29 TaskDailySkillReuseClean: Daily skill reuse cleaned.
+[WARN ] 2022-04-07 08:13:29 HikariPool: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=13h6m38s509ms901탎400ns).
+[INFO ] 2022-04-07 08:13:29 ItemAuctionInstance: Schedule next auction ID 17 on 17:00:00 13.04.22 for NPC ID 32322.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:13:29 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:15:03 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 08:45:03 TaskSevenSignsUpdate: Data updated successfully.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@36d85674 ((conn=5532) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@381fbedf ((conn=5533) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@3c203d04 ((conn=5534) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@7922b4e4 ((conn=5535) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@d3d2642 ((conn=5536) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@4811887c ((conn=5537) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@75e44467 ((conn=5538) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@190d4bab ((conn=5539) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@7de661fe ((conn=5540) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@39f05456 ((conn=5541) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@6ee0e873 ((conn=5542) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@1d43b617 ((conn=5544) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@53e4cdd0 ((conn=5545) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@680d711e ((conn=5546) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@147bf1c ((conn=5547) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@1b4422d ((conn=5548) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@744b8586 ((conn=5549) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@774d8f90 ((conn=5550) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@4bce713a ((conn=5551) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@68c8e744 ((conn=5552) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@4087386e ((conn=5553) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@5b2d0ee1 ((conn=5554) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@63d2f31f ((conn=5555) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@4c0fcae6 ((conn=5556) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@3532cf41 ((conn=5557) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@6db9500 ((conn=5558) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@7265c4cf ((conn=5559) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@400f689f ((conn=5560) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@63e4ef18 ((conn=5561) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@39cd15f1 ((conn=5562) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@65d2fdbb ((conn=5563) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@5ea23a0e ((conn=5564) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@1afa92ed ((conn=5566) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@4b496ede ((conn=5567) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@39046d29 ((conn=5568) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@76b9424d ((conn=5569) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@381adb8d ((conn=5570) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@38a56dce ((conn=5571) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@225222d6 ((conn=5572) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@1e45b7fb ((conn=5573) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@70edc10d ((conn=5574) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@633519c3 ((conn=5575) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@5042c3e1 ((conn=5576) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@638b5c7d ((conn=5577) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@7d701ca8 ((conn=5578) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@3640e9c4 ((conn=5579) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@705b6926 ((conn=5580) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@490aabe4 ((conn=5581) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@34627b31 ((conn=5582) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@5ddbab0 ((conn=5584) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@2ee4e174 ((conn=5585) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@322d2ac7 ((conn=5587) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@15b16440 ((conn=5588) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@7dd1547c ((conn=5589) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@74b7f5f3 ((conn=5590) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@2f9782b0 ((conn=5591) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@319a6066 ((conn=5592) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@461fa09d ((conn=5593) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@d4ccdc0 ((conn=5594) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@1edd5cdb ((conn=5596) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@7ca68636 ((conn=5597) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@4786da77 ((conn=5598) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@2c4f3d8a ((conn=5599) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@5800975c ((conn=5600) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@10df2d5c ((conn=5602) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@61fb0852 ((conn=5605) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@348dda8a ((conn=5606) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@68eb1130 ((conn=5607) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@13774bc ((conn=5608) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@38b74550 ((conn=5609) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@62b48146 ((conn=5610) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@52666eb1 ((conn=5612) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@68ce62d5 ((conn=5613) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@6a513759 ((conn=5614) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@2ca935e4 ((conn=5615) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@4ddbc526 ((conn=5616) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@5618de82 ((conn=5617) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@3510c0e7 ((conn=5618) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@5073c5b4 ((conn=5619) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@4312d869 ((conn=5620) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@536ef247 ((conn=5621) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@604a0735 ((conn=5622) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@2e5a20ed ((conn=5623) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@7b5e74df ((conn=5624) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@5f064d39 ((conn=5625) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@6fc58a43 ((conn=5626) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@10e7921e ((conn=5627) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@1897e451 ((conn=5628) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@75151dff ((conn=5629) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@36c1168c ((conn=5630) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@1a9a0528 ((conn=5631) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@3d08df46 ((conn=5632) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@602fc7fd ((conn=5633) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@5e64d802 ((conn=5634) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@141d35a3 ((conn=5635) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@6f942a89 ((conn=5636) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@711a18a9 ((conn=5638) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@9466a40 ((conn=5639) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@740bf6e6 ((conn=5640) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[WARN ] 2022-04-07 18:17:13 PoolBase: HikariPool-1 - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@68af45a9 ((conn=5641) Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+[INFO ] 2022-04-07 18:17:13 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 18:17:14 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 18:17:14 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 18:17:14 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 18:17:14 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 18:17:14 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 18:17:14 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 18:17:14 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 18:17:14 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 18:17:14 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 18:17:14 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 18:17:14 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 18:17:14 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 18:17:14 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 18:17:14 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 18:17:14 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 18:17:14 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 18:17:14 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 18:17:14 Olympiad: Olympiad Game Started
+[INFO ] 2022-04-07 18:17:14 TaskSevenSignsUpdate: Data updated successfully.
+[WARN ] 2022-04-07 18:17:15 HikariPool: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9h14m16s985ms660탎300ns).
+[INFO ] 2022-04-07 18:30:03 TaskOlympiadSave: Data updated.
+[INFO ] 2022-04-07 18:45:03 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 19:00:03 TaskOlympiadSave: Data updated.
+[WARN ] 2022-04-07 20:56:38 HikariPool: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h43m52s616ms363탎800ns).
+[INFO ] 2022-04-07 20:56:39 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 20:56:39 TaskOlympiadSave: Data updated.
+[INFO ] 2022-04-07 20:56:39 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 20:56:39 TaskOlympiadSave: Data updated.
+[INFO ] 2022-04-07 20:56:39 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 20:56:39 TaskOlympiadSave: Data updated.
+[INFO ] 2022-04-07 20:56:39 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 21:00:03 TaskOlympiadSave: Data updated.
+[INFO ] 2022-04-07 21:15:03 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 21:30:03 TaskOlympiadSave: Data updated.
+[INFO ] 2022-04-07 21:45:03 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 22:00:03 TaskOlympiadSave: Data updated.
+[INFO ] 2022-04-07 22:15:03 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 22:30:03 TaskOlympiadSave: Data updated.
+[INFO ] 2022-04-07 22:45:03 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 22:52:18 L2PcInstance: Master access level set for character Gmtech [268481866].
+[INFO ] 2022-04-07 22:55:05 L2PcInstance: Master access level set for character Gmtech [268481866].
+[INFO ] 2022-04-07 23:00:03 TaskOlympiadSave: Data updated.
+[INFO ] 2022-04-07 23:15:03 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-07 23:30:03 TaskOlympiadSave: Data updated.
+[INFO ] 2022-04-07 23:37:33 L2PcInstance: Master access level set for character Gmtech [268481866].
+[INFO ] 2022-04-07 23:45:03 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 00:00:03 TaskOlympiadSave: Data updated.
+[INFO ] 2022-04-08 00:00:28 Olympiad: Olympiad Game Ended
+[INFO ] 2022-04-08 00:00:28 Olympiad: Competition Period Starts in 0 days, 18 hours and 0 mins.
+[INFO ] 2022-04-08 00:00:28 Olympiad: Event starts/started : Fri Apr 08 18:00:28 CEST 2022
+[INFO ] 2022-04-08 00:15:03 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 00:45:02 TaskSevenSignsUpdate: Data updated successfully.
+[WARN ] 2022-04-08 01:35:11 HikariPool: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=40m4s268ms506탎400ns).
+[INFO ] 2022-04-08 01:35:12 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 01:45:01 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 07:23:47 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 07:23:47 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 07:23:47 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 07:23:47 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 07:23:47 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 07:23:47 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 07:23:47 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 07:23:47 TaskHuntingSystem: Hunting System reseted.
+[INFO ] 2022-04-08 07:23:47 TaskDailySkillReuseClean: Daily skill reuse cleaned.
+[INFO ] 2022-04-08 07:23:47 TaskRecom: Recommendations System reseted.
+[INFO ] 2022-04-08 07:23:47 TaskBirthday: 0 gifts sent.
+[INFO ] 2022-04-08 07:23:47 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 07:23:47 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 07:23:47 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 07:23:47 TaskSevenSignsUpdate: Data updated successfully.
+[WARN ] 2022-04-08 07:23:49 HikariPool: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5h18m38s543ms378탎600ns).
+[INFO ] 2022-04-08 07:45:01 TaskSevenSignsUpdate: Data updated successfully.
+[WARN ] 2022-04-08 13:25:09 HikariPool: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5h24m49s235ms963탎400ns).
+[INFO ] 2022-04-08 13:25:09 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 13:25:09 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 13:25:09 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 13:25:09 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 13:25:09 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 13:25:09 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 13:25:09 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 13:25:09 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 13:25:09 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 13:25:09 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 13:25:09 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 13:45:01 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 14:15:01 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 15:47:10 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 15:47:10 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 15:47:10 TaskSevenSignsUpdate: Data updated successfully.
+[WARN ] 2022-04-08 15:47:13 HikariPool: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h10m4s142ms853탎900ns).
+[INFO ] 2022-04-08 16:15:01 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 16:45:01 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 16:59:54 ItemAuctionInstance$ScheduleAuctionTask: Auction ID 15 has started for NPC ID 32320.
+[INFO ] 2022-04-08 16:59:54 ItemAuctionInstance: Schedule current auction ID 15 for NPC ID 32320.
+[INFO ] 2022-04-08 22:02:13 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 22:02:13 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 22:02:13 Olympiad: Olympiad Game Started
+[INFO ] 2022-04-08 22:02:13 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 22:02:13 TaskOlympiadSave: Data updated.
+[INFO ] 2022-04-08 22:02:13 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 22:02:13 TaskOlympiadSave: Data updated.
+[INFO ] 2022-04-08 22:02:13 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 22:02:13 TaskOlympiadSave: Data updated.
+[INFO ] 2022-04-08 22:02:13 TaskOlympiadSave: Data updated.
+[INFO ] 2022-04-08 22:02:13 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 22:02:13 TaskOlympiadSave: Data updated.
+[INFO ] 2022-04-08 22:02:13 TaskOlympiadSave: Data updated.
+[INFO ] 2022-04-08 22:02:13 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 22:02:13 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 22:02:13 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 22:02:13 TaskOlympiadSave: Data updated.
+[INFO ] 2022-04-08 22:02:13 ItemAuctionInstance: Auction ID 15 has finished. There have not been any bid for instance ID 32320.
+[INFO ] 2022-04-08 22:02:13 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2022-04-08 22:02:13 TaskOlympiadSave: Data updated.
+[INFO ] 2022-04-08 22:02:13 ItemAuctionInstance: Schedule next auction ID 18 on 17:00:00 15.04.22 for NPC ID 32320.
+[WARN ] 2022-04-08 22:02:13 AbstractScript: Lindvior
+java.lang.NullPointerException: Cannot invoke "com.l2jserver.gameserver.model.L2Spawn.getLastSpawn()" because the return value of "com.l2jserver.gameserver.datatables.SpawnTable.findAny(int)" is null
+	at com.l2jserver.datapack.gracia.ai.Lindvior.onAdvEvent(Lindvior.java:81) ~[?:?]
+	at com.l2jserver.gameserver.model.quest.Quest.notifyEvent(Quest.java:459) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.quest.QuestTimer$ScheduleTimerTask.run(QuestTimer.java:43) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:86) [l2jserver.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[WARN ] 2022-04-08 22:02:16 HikariPool: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4h52m3s161ms703탎700ns).
+[INFO ] 2022-04-08 22:15:01 TaskSevenSignsUpdate: Data updated successfully.

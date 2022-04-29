@@ -1,0 +1,407 @@
+[INFO ] 2022-04-04 10:08:17 GameServer: ------------------------------------------------=[ Database ]
+[INFO ] 2022-04-04 10:08:17 GameServer: -----------------------------------=[ Network Configuration ]
+[INFO ] 2022-04-04 10:08:17 IPConfigData: Using automatic network configuration.
+[INFO ] 2022-04-04 10:08:18 IPConfigData: Adding new subnet: 127.0.0.0/8 address: 127.0.0.1
+[INFO ] 2022-04-04 10:08:18 IPConfigData: Adding new subnet: 192.168.1.0/24 address: 192.168.1.22
+[INFO ] 2022-04-04 10:08:18 IPConfigData: Adding new subnet: 0.0.0.0/0 address: 90.63.83.82
+[INFO ] 2022-04-04 10:08:18 HikariDataSource: HikariPool-1 - Starting...
+[INFO ] 2022-04-04 10:08:18 HikariDataSource: HikariPool-1 - Start completed.
+[INFO ] 2022-04-04 10:08:18 IdFactory: Updated characters online status.
+[INFO ] 2022-04-04 10:08:18 IdFactory: Cleaned 0 elements from database in 0s.
+[INFO ] 2022-04-04 10:08:18 IdFactory: Cleaned 0 expired timestamps from database.
+[INFO ] 2022-04-04 10:08:18 BitSetIDFactory: 205824 Ids available.
+[INFO ] 2022-04-04 10:08:18 GameServer: ---------------------------------------------------=[ World ]
+[INFO ] 2022-04-04 10:08:18 InstanceManager: Multiverse Instance created.
+[INFO ] 2022-04-04 10:08:18 InstanceManager: Universe Instance created.
+[INFO ] 2022-04-04 10:08:18 InstanceManager: Loaded 160 instance names.
+[INFO ] 2022-04-04 10:08:18 L2World: 128 by 136 world region grid set up.
+[INFO ] 2022-04-04 10:08:19 MapRegionManager: Loaded 57 map regions.
+[INFO ] 2022-04-04 10:08:19 GlobalVariablesManager: Loaded 8 variables.
+[INFO ] 2022-04-04 10:08:19 GameServer: ----------------------------------------------------=[ Data ]
+[INFO ] 2022-04-04 10:08:19 CategoryData: Loaded 124 Categories.
+[INFO ] 2022-04-04 10:08:19 SecondaryAuthData: Loaded 328 forbidden passwords.
+[INFO ] 2022-04-04 10:08:19 GameServer: -------------------------------------------------=[ Effects ]
+[INFO ] 2022-04-04 10:08:20 EffectMasterHandler: Loaded 169 effect handlers.
+[INFO ] 2022-04-04 10:08:20 GameServer: ------------------------------------=[ Enchant Skill Groups ]
+[INFO ] 2022-04-04 10:08:20 EnchantSkillGroupsData: Loaded 4 groups and 90 routes.
+[INFO ] 2022-04-04 10:08:20 GameServer: ---------------------------------------------=[ Skill Trees ]
+[INFO ] 2022-04-04 10:08:20 SkillTreesData: Loaded 17176 Class Skills for 103 Class Skill Trees.
+[INFO ] 2022-04-04 10:08:20 SkillTreesData: Loaded 76 Sub-Class Skills.
+[INFO ] 2022-04-04 10:08:20 SkillTreesData: Loaded 77 Transfer Skills for 3 Transfer Skill Trees.
+[INFO ] 2022-04-04 10:08:20 SkillTreesData: Loaded 117 Fishing Skills, 8 Dwarven only Fishing Skills.
+[INFO ] 2022-04-04 10:08:20 SkillTreesData: Loaded 3 Collect Skills.
+[INFO ] 2022-04-04 10:08:20 SkillTreesData: Loaded 74 Pledge Skills, 44 for Pledge and 30 Residential.
+[INFO ] 2022-04-04 10:08:20 SkillTreesData: Loaded 18 Sub-Pledge Skills.
+[INFO ] 2022-04-04 10:08:20 SkillTreesData: Loaded 32 Transform Skills.
+[INFO ] 2022-04-04 10:08:20 SkillTreesData: Loaded 8 Noble Skills.
+[INFO ] 2022-04-04 10:08:20 SkillTreesData: Loaded 5 Hero Skills.
+[INFO ] 2022-04-04 10:08:20 SkillTreesData: Loaded 46 Game Master Skills.
+[INFO ] 2022-04-04 10:08:20 SkillTreesData: Loaded 46 Game Master Aura Skills.
+[INFO ] 2022-04-04 10:08:20 GameServer: --------------------------------------------------=[ Skills ]
+[INFO ] 2022-04-04 10:08:29 DocumentEngine: Loaded 65976 skill templates from XML files.
+[INFO ] 2022-04-04 10:08:29 SummonSkillsTable: Loaded 1891 summon skills.
+[INFO ] 2022-04-04 10:08:29 GameServer: ---------------------------------------------------=[ Items ]
+[INFO ] 2022-04-04 10:08:30 ItemTable: Highest item Id used 22567.
+[INFO ] 2022-04-04 10:08:30 ItemTable: Loaded 11481 Etc items.
+[INFO ] 2022-04-04 10:08:30 ItemTable: Loaded 3825 Armor items.
+[INFO ] 2022-04-04 10:08:30 ItemTable: Loaded 3893 Weapon items.
+[INFO ] 2022-04-04 10:08:30 ItemTable: Loaded 19199 items in total.
+[INFO ] 2022-04-04 10:08:30 EnchantItemGroupsData: Loaded 4 item group templates.
+[INFO ] 2022-04-04 10:08:30 EnchantItemGroupsData: Loaded 1 scroll group templates.
+[INFO ] 2022-04-04 10:08:30 EnchantItemData: Loaded 63 enchant scrolls.
+[INFO ] 2022-04-04 10:08:30 EnchantItemData: Loaded 20 support items.
+[INFO ] 2022-04-04 10:08:30 EnchantItemOptionsData: Loaded 23 items and 1093 options.
+[INFO ] 2022-04-04 10:08:31 OptionData: Loaded 24985 item options.
+[INFO ] 2022-04-04 10:08:31 EnchantItemHPBonusData: Loaded 6 Enchant HP Bonuses.
+[INFO ] 2022-04-04 10:08:32 MerchantPriceConfigTable: Loaded 28 merchant price configs.
+[WARN ] 2022-04-04 10:08:32 IXmlReader: BuyListData: Folder E:\l2jserver\server\Game\data\buylists\custom doesn't exist!
+[INFO ] 2022-04-04 10:08:32 BuyListData: Loaded 760 buy lists.
+[WARN ] 2022-04-04 10:08:33 IXmlReader: MultisellData: Folder E:\l2jserver\server\Game\data\multisell\custom doesn't exist!
+[INFO ] 2022-04-04 10:08:33 MultisellData: Loaded 192 multisell lists.
+[INFO ] 2022-04-04 10:08:33 RecipeData: Loaded 1000 recipes.
+[INFO ] 2022-04-04 10:08:33 ArmorSetsData: Loaded 204 armor sets.
+[INFO ] 2022-04-04 10:08:33 FishData: Loaded 278 fish.
+[INFO ] 2022-04-04 10:08:33 FishingMonstersData: Loaded 8 fishing monsters.
+[INFO ] 2022-04-04 10:08:33 FishingRodsData: Loaded 6 fishing rods.
+[INFO ] 2022-04-04 10:08:33 HennaData: Loaded 180 Henna data.
+[INFO ] 2022-04-04 10:08:33 GameServer: ----------------------------------------------=[ Characters ]
+[INFO ] 2022-04-04 10:08:33 ClassListData: Loaded 107 class data.
+[INFO ] 2022-04-04 10:08:33 InitialEquipmentData: Loaded 11 initial equipment data.
+[INFO ] 2022-04-04 10:08:33 InitialShortcutData: Loaded 5 initial dlobal shortcuts data.
+[INFO ] 2022-04-04 10:08:33 InitialShortcutData: Loaded 4 initial shortcuts data.
+[INFO ] 2022-04-04 10:08:33 InitialShortcutData: Loaded 0 macros presets.
+[INFO ] 2022-04-04 10:08:33 KarmaData: Loaded 85 karma modifiers.
+[INFO ] 2022-04-04 10:08:33 HitConditionBonusData: Loaded Hit Condition bonuses.
+[INFO ] 2022-04-04 10:08:33 PlayerTemplateData: Loaded 103 character templates.
+[INFO ] 2022-04-04 10:08:33 PlayerTemplateData: Loaded 52530 level up gain records.
+[INFO ] 2022-04-04 10:08:33 PlayerCreationPointData: Loaded 62 character creation points.
+[INFO ] 2022-04-04 10:08:33 CharNameTable: Loaded 1 char names.
+[INFO ] 2022-04-04 10:08:33 AdminData: Loaded 10 access levels.
+[INFO ] 2022-04-04 10:08:33 AdminData: Loaded 444 access commands.
+[INFO ] 2022-04-04 10:08:33 RaidBossPointsManager: Loaded 0 characters raid points.
+[INFO ] 2022-04-04 10:08:34 PetDataTable: Loaded 52 Pets.
+[INFO ] 2022-04-04 10:08:34 GameServer: -----------------------------------------------------=[ BBS ]
+[INFO ] 2022-04-04 10:08:34 ForumsBBSManager: Loaded 4 forums.
+[INFO ] 2022-04-04 10:08:34 GameServer: ---------------------------------------------------=[ Clans ]
+[INFO ] 2022-04-04 10:08:34 ClanTable: Restored 0 clans from the database.
+[INFO ] 2022-04-04 10:08:34 AuctionManager: Loaded 38 auction(s).
+[INFO ] 2022-04-04 10:08:34 ClanHallManager: Loaded 0 clan halls.
+[INFO ] 2022-04-04 10:08:34 ClanHallManager: Loaded 38 free clan halls.
+[INFO ] 2022-04-04 10:08:34 ClanHallSiegeManager: Loaded 6 conquerable clan halls.
+[INFO ] 2022-04-04 10:08:34 GameServer: -------------------------------------------------=[ Geodata ]
+[INFO ] 2022-04-04 10:08:34 GeoData: Loaded 0 regions.
+[INFO ] 2022-04-04 10:08:34 GameServer: ----------------------------------------------------=[ NPCs ]
+[INFO ] 2022-04-04 10:08:34 SkillLearnData: Loaded 256 skill learn data.
+[INFO ] 2022-04-04 10:08:34 NpcData$MinionData: Loaded 128 minions data.
+[INFO ] 2022-04-04 10:08:37 NpcData: Loaded 10461 NPCs.
+[INFO ] 2022-04-04 10:08:37 NpcData: Loaded 10 custom NPCs.
+[INFO ] 2022-04-04 10:08:37 WalkingManager: Loaded 127 walking routes.
+[INFO ] 2022-04-04 10:08:37 StaticObjectData: Loaded 51 static object templates.
+[INFO ] 2022-04-04 10:08:37 GrandBossManager: Queen Ant (29001) status is 0.
+[INFO ] 2022-04-04 10:08:37 GrandBossManager: Core (29006) status is 0.
+[INFO ] 2022-04-04 10:08:37 GrandBossManager: Orfen (29014) status is 0.
+[INFO ] 2022-04-04 10:08:37 GrandBossManager: Baium (29020) status is 0.
+[INFO ] 2022-04-04 10:08:37 GrandBossManager: Valakas (29028) status is 0.
+[INFO ] 2022-04-04 10:08:37 GrandBossManager: Antharas (29068) status is 0.
+[INFO ] 2022-04-04 10:08:37 GrandBossManager: Beleth (29118) status is 0.
+[INFO ] 2022-04-04 10:08:37 GrandBossManager: Loaded 7 grand boss instances.
+[INFO ] 2022-04-04 10:08:38 DoorData: Loaded 1301 door templates for 22 regions.
+[INFO ] 2022-04-04 10:08:39 ZoneManager: Loaded 28 zone classes and 2794 zones.
+[INFO ] 2022-04-04 10:08:39 ZoneManager: Loaded 0 NPC spawn territoriers.
+[INFO ] 2022-04-04 10:08:39 CastleManager: Loaded 9 castles.
+[INFO ] 2022-04-04 10:08:39 NpcBufferTable: Loaded 2 buffers and 64 skills.
+[INFO ] 2022-04-04 10:08:39 GrandBossManager: Initialized 12 grand boss zones.
+[INFO ] 2022-04-04 10:08:39 GameServer: -----------------------------------------=[ Auction Manager ]
+[INFO ] 2022-04-04 10:08:39 ItemAuctionInstance: Clearing expired auction ID 1.
+[INFO ] 2022-04-04 10:08:39 ItemAuctionInstance: Clearing expired auction ID 6.
+[INFO ] 2022-04-04 10:08:39 ItemAuctionInstance: Loaded 82 item(s) and registered 3 auction(s) for NPC ID 32320.
+[INFO ] 2022-04-04 10:08:39 ItemAuctionInstance: Schedule next auction ID 15 on 17:00:00 08.04.22 for NPC ID 32320.
+[INFO ] 2022-04-04 10:08:39 ItemAuctionInstance: Clearing expired auction ID 2.
+[INFO ] 2022-04-04 10:08:39 ItemAuctionInstance: Clearing expired auction ID 4.
+[INFO ] 2022-04-04 10:08:39 ItemAuctionInstance: Loaded 82 item(s) and registered 3 auction(s) for NPC ID 32321.
+[INFO ] 2022-04-04 10:08:39 ItemAuctionInstance: Schedule next auction ID 13 on 17:00:00 04.04.22 for NPC ID 32321.
+[INFO ] 2022-04-04 10:08:39 ItemAuctionInstance: Clearing expired auction ID 3.
+[INFO ] 2022-04-04 10:08:39 ItemAuctionInstance: Clearing expired auction ID 5.
+[INFO ] 2022-04-04 10:08:39 ItemAuctionInstance: Loaded 82 item(s) and registered 3 auction(s) for NPC ID 32322.
+[INFO ] 2022-04-04 10:08:39 ItemAuctionInstance: Schedule next auction ID 14 on 17:00:00 06.04.22 for NPC ID 32322.
+[INFO ] 2022-04-04 10:08:39 ItemAuctionManager: Loaded 3 auction manager instance(s).
+[INFO ] 2022-04-04 10:08:39 GameServer: ------------------------------------------------=[ Olympiad ]
+[INFO ] 2022-04-04 10:08:39 Olympiad: Loading Olympiad System....
+[INFO ] 2022-04-04 10:08:39 Olympiad: Currently in Olympiad Period
+[INFO ] 2022-04-04 10:08:39 Olympiad: 38991 minutes until period ends
+[INFO ] 2022-04-04 10:08:39 Olympiad: Next weekly change is in 7858 minutes
+[INFO ] 2022-04-04 10:08:39 Olympiad: Loaded 0 Nobles
+[INFO ] 2022-04-04 10:08:39 Olympiad: Competition Period Starts in 0 days, 7 hours and 52 mins.
+[INFO ] 2022-04-04 10:08:39 Olympiad: Event starts/started : Mon Apr 04 18:00:39 CEST 2022
+[INFO ] 2022-04-04 10:08:39 Hero: Loaded 0 Heroes.
+[INFO ] 2022-04-04 10:08:39 Hero: Loaded 0 all time Heroes.
+[INFO ] 2022-04-04 10:08:39 GameServer: ---------------------------------------------=[ Seven Signs ]
+[INFO ] 2022-04-04 10:08:39 SevenSigns: Currently in the Competition (Quest Event) period.
+[INFO ] 2022-04-04 10:08:39 SevenSigns: The Seal of Avarice remains unclaimed.
+[INFO ] 2022-04-04 10:08:39 SevenSigns: The Seal of Gnosis remains unclaimed.
+[INFO ] 2022-04-04 10:08:39 SevenSigns: The Seal of Strife remains unclaimed.
+[INFO ] 2022-04-04 10:08:39 SevenSigns: The competition, if the current trend continues, will end in a tie this week.
+[INFO ] 2022-04-04 10:08:39 SevenSigns: Next period change set to 2022-04-04T18:00:39.624+0200.
+[INFO ] 2022-04-04 10:08:39 SevenSigns: Next period begins in 0 days, 7 hours and 51 mins.
+[INFO ] 2022-04-04 10:08:39 GameServer: ---------------------------------------------------=[ Cache ]
+[INFO ] 2022-04-04 10:08:39 HtmCache: Running lazy cache.
+[INFO ] 2022-04-04 10:08:39 CrestTable: Loaded 0 crests.
+[INFO ] 2022-04-04 10:08:39 TeleportLocationTable: Loaded 957 teleport location templates.
+[INFO ] 2022-04-04 10:08:39 UIData: Loaded 4 keys 5 categories.
+[INFO ] 2022-04-04 10:08:39 AugmentationData: Loaded 33960 augmentations.
+[INFO ] 2022-04-04 10:08:39 AugmentationData: Loaded 2754 accessory augmentations.
+[INFO ] 2022-04-04 10:08:39 CursedWeaponsManager: Loaded 2 cursed weapon(s).
+[INFO ] 2022-04-04 10:08:40 TransformData: Loaded 111 transform templates.
+[INFO ] 2022-04-04 10:08:40 BotReportTable: Loaded 0 bot reports.
+[INFO ] 2022-04-04 10:08:40 AirShipManager: Loaded 0 private airships.
+[INFO ] 2022-04-04 10:08:40 GameServer: ------------------------------------------------=[ Handlers ]
+[INFO ] 2022-04-04 10:08:42 MasterHandler: Loaded 5 Voiced Command Handler.
+[INFO ] 2022-04-04 10:08:42 MasterHandler: Loaded 10 Action Handler.
+[INFO ] 2022-04-04 10:08:42 MasterHandler: Loaded 6 Action Shift Handler.
+[INFO ] 2022-04-04 10:08:42 MasterHandler: Loaded 447 Admin Command Handler.
+[INFO ] 2022-04-04 10:08:42 MasterHandler: Loaded 48 Bypass Handler.
+[INFO ] 2022-04-04 10:08:42 MasterHandler: Loaded 14 Chat Handler.
+[INFO ] 2022-04-04 10:08:42 MasterHandler: Loaded 15 Community Board Handler.
+[INFO ] 2022-04-04 10:08:42 MasterHandler: Loaded 31 Item Handler.
+[INFO ] 2022-04-04 10:08:42 MasterHandler: Loaded 3 Punishment Handler.
+[INFO ] 2022-04-04 10:08:42 MasterHandler: Loaded 17 User Command Handler.
+[INFO ] 2022-04-04 10:08:42 MasterHandler: Loaded 20 Telnet Handler.
+[INFO ] 2022-04-04 10:08:42 GameServer: ------------------------------------------------------=[ AI ]
+[INFO ] 2022-04-04 10:08:46 NpcBuffersData: Loaded 33 buffers data.
+[INFO ] 2022-04-04 10:08:46 HandysBlockCheckerEvent: Loaded Handy's Block Checker event.
+[INFO ] 2022-04-04 10:08:46 AILoader: Loaded 179 AI scripts.
+[INFO ] 2022-04-04 10:08:46 GameServer: -----------------------------------------------=[ Instances ]
+[INFO ] 2022-04-04 10:08:47 InstanceLoader: Loaded 30 instnaces.
+[INFO ] 2022-04-04 10:08:47 GameServer: --------------------------------------------------=[ Gracia ]
+[INFO ] 2022-04-04 10:08:48 GraciaLoader: Loaded 28 Gracia scripts.
+[INFO ] 2022-04-04 10:08:48 GameServer: -----------------------------------------------=[ Hellbound ]
+[INFO ] 2022-04-04 10:08:49 HellboundPointData: Loaded 47 trust point reward data.
+[INFO ] 2022-04-04 10:08:49 HellboundSpawns: Loaded 598 Hellbound spawns.
+[INFO ] 2022-04-04 10:08:49 HellboundEngine: Level 9.
+[INFO ] 2022-04-04 10:08:49 HellboundEngine: Trust 2000001.
+[INFO ] 2022-04-04 10:08:49 HellboundEngine: Status unlocked.
+[INFO ] 2022-04-04 10:08:49 RaidBossSpawnManager: Spawning raid bosses...
+[INFO ] 2022-04-04 10:08:49 RaidBossSpawnManager: Loaded 1 bosses.
+[INFO ] 2022-04-04 10:08:49 RaidBossSpawnManager: Scheduled 0 boss instances.
+[INFO ] 2022-04-04 10:08:49 HellboundLoader: Loaded 34 Hellbound scripts.
+[INFO ] 2022-04-04 10:08:49 GameServer: --------------------------------------------------=[ Quests ]
+[INFO ] 2022-04-04 10:08:50 HellboundEngine: Spawned 366 NPCs.
+[INFO ] 2022-04-04 10:08:59 Q00350_EnhanceYourWeapon: Loaded 54 soul crystal data.
+[INFO ] 2022-04-04 10:08:59 Q00350_EnhanceYourWeapon: Loaded 240 npc leveling data.
+[INFO ] 2022-04-04 10:08:59 QuestLoader: Loaded 502 quests.
+[INFO ] 2022-04-04 10:09:00 AbstractScript: TerritoryWarSuperClass: Siege date: Sun Apr 10 22:00:00 CEST 2022
+[INFO ] 2022-04-04 10:09:00 GameServer: -------------------------------------------------=[ Scripts ]
+[INFO ] 2022-04-04 10:09:00 ClanHallSiegeEngine: Fortress of the Dead siege scheduled for 2022-04-17T12:00:00.293+0200.
+[INFO ] 2022-04-04 10:09:00 DiscordBot: Discord Bot is Disabled.
+[INFO ] 2022-04-04 10:09:00 ClanHallSiegeEngine: Beast Farm siege scheduled for 2022-04-17T12:00:00.295+0200.
+[INFO ] 2022-04-04 10:09:00 ClanHallSiegeEngine: Rainbow Springs siege scheduled for 2022-04-17T12:00:00.291+0200.
+[INFO ] 2022-04-04 10:09:00 TeleporterService: Disabled.
+[INFO ] 2022-04-04 10:09:00 BufferService: Disabled.
+[INFO ] 2022-04-04 10:09:00 ClanHallSiegeEngine: Bandit Stronghold siege scheduled for 2022-04-17T12:00:00.295+0200.
+[INFO ] 2022-04-04 10:09:00 ClanHallSiegeEngine: Devastated Castle siege scheduled for 2022-04-17T12:00:00.291+0200.
+[INFO ] 2022-04-04 10:09:00 ClanHallSiegeEngine: Fortress of Resistance siege scheduled for 2022-04-17T12:00:00.162+0200.
+[INFO ] 2022-04-04 10:09:00 SpawnTable: Loaded 61 NPC spawns.
+[INFO ] 2022-04-04 10:09:00 SpawnTable: Loaded 0 custom NPC spawns.
+[INFO ] 2022-04-04 10:09:01 SpawnTable: Loaded 1190 NPC spawns from XML.
+[INFO ] 2022-04-04 10:09:01 FourSepulchersManager: Loaded 20 Mysterious-Box spawns.
+[INFO ] 2022-04-04 10:09:01 FourSepulchersManager: Loaded 716 Physical type monsters spawns.
+[INFO ] 2022-04-04 10:09:01 FourSepulchersManager: Loaded 716 Magical monsters spawns.
+[INFO ] 2022-04-04 10:09:01 FourSepulchersManager: Loaded 92 Church of duke monsters spawns.
+[INFO ] 2022-04-04 10:09:01 FourSepulchersManager: Loaded 68 Emperor's Grave spawns.
+[INFO ] 2022-04-04 10:09:01 FourSepulchersManager: Spawned Conquerors' Sepulcher Manager.
+[INFO ] 2022-04-04 10:09:01 FourSepulchersManager: Spawned Emperors' Sepulcher Manager.
+[INFO ] 2022-04-04 10:09:01 FourSepulchersManager: Spawned Great Sages' Sepulcher Manager.
+[INFO ] 2022-04-04 10:09:01 FourSepulchersManager: Spawned Judges' Sepulcher Manager.
+[INFO ] 2022-04-04 10:09:01 FourSepulchersManager: Beginning in attack time.
+[INFO ] 2022-04-04 10:09:01 DimensionalRiftManager: Loaded 7 room types with 56 rooms.
+[INFO ] 2022-04-04 10:09:01 DimensionalRiftManager: Loaded 462 Dimensional Rift spawns.
+[INFO ] 2022-04-04 10:09:01 GameServer: ---------------------------------------------------=[ Siege ]
+[INFO ] 2022-04-04 10:09:01 SiegeScheduleData: Loaded 2 siege schedulers.
+[INFO ] 2022-04-04 10:09:01 Siege: Siege of Gludio: 2022-04-10T16:00:00.111+0200.
+[INFO ] 2022-04-04 10:09:01 Siege: Siege of Dion: 2022-04-10T16:00:00.115+0200.
+[INFO ] 2022-04-04 10:09:01 Siege: Siege of Giran: 2022-04-10T16:00:00.116+0200.
+[INFO ] 2022-04-04 10:09:01 Siege: Siege of Oren: 2022-04-10T16:00:00.118+0200.
+[INFO ] 2022-04-04 10:09:01 Siege: Siege of Aden: 2022-04-10T16:00:00.119+0200.
+[INFO ] 2022-04-04 10:09:01 Siege: Siege of Innadril: 2022-04-10T20:00:00.120+0200.
+[INFO ] 2022-04-04 10:09:01 Siege: Siege of Goddard: 2022-04-10T20:00:00.121+0200.
+[INFO ] 2022-04-04 10:09:01 Siege: Siege of Rune: 2022-04-10T20:00:00.122+0200.
+[INFO ] 2022-04-04 10:09:01 Siege: Siege of Schuttgart: 2022-04-10T20:00:00.123+0200.
+[INFO ] 2022-04-04 10:09:01 FortManager: Loaded 21 fortress.
+[INFO ] 2022-04-04 10:09:01 CastleManorManager: Loaded 258 seeds.
+[INFO ] 2022-04-04 10:09:01 CastleManorManager: Manor data loaded.
+[INFO ] 2022-04-04 10:09:01 MercTicketManager: Loaded 0 mercenary tickets.
+[INFO ] 2022-04-04 10:09:01 AutoSpawnHandler: Loaded 129 handlers.
+[INFO ] 2022-04-04 10:09:01 SevenSignsFestival: The first Festival of Darkness cycle begins in 2 minute(s).
+[INFO ] 2022-04-04 10:09:01 FaenorEventParser: Event Id Valentines Event has passed... Ignored.
+[INFO ] 2022-04-04 10:09:01 FaenorScriptEngine: Loaded Valentines.xml successfully.
+[INFO ] 2022-04-04 10:09:01 TaskManager: Loaded 13 tasks.
+[INFO ] 2022-04-04 10:09:01 MailManager: Successfully loaded 0 messages.
+[INFO ] 2022-04-04 10:09:01 PunishmentManager: Loaded 0 active and 0 expired punishments.
+[INFO ] 2022-04-04 10:09:01 GameServer: Free Object Ids remaining 1879043748.
+[INFO ] 2022-04-04 10:09:01 TvTManager: Engine is disabled.
+[INFO ] 2022-04-04 10:09:01 GameServer: Started, free memory 1823 Mb of 2048 Mb
+[INFO ] 2022-04-04 10:09:01 LoginServerThread: Connecting to login server on 127.0.0.1:9014
+[INFO ] 2022-04-04 10:09:01 LoginServerThread: Registered on login as Server 1: Bartz
+[INFO ] 2022-04-04 10:09:01 GameServer: Now listening on *:7777
+[INFO ] 2022-04-04 10:09:01 GameServer: ----------------------------------------------------=[ UPnP ]
+[INFO ] 2022-04-04 10:09:01 UPnPService: Looking for UPnP Gateway Devices...
+[INFO ] 2022-04-04 10:09:01 UPnPService: Using UPnP gateway: Orange Livebox
+[INFO ] 2022-04-04 10:09:01 UPnPService: Using local address: 192.168.1.22 External address: 90.63.83.82
+[INFO ] 2022-04-04 10:09:01 UPnPService: Mapping successful on 192.168.1.22:7777
+[INFO ] 2022-04-04 10:09:01 GameServer: Telnet server is currently disabled.
+[INFO ] 2022-04-04 10:09:01 GameServer: Maximum numbers of connected players 500.
+[INFO ] 2022-04-04 10:09:01 GameServer: Server Bartz loaded in 43 seconds.
+[INFO ] 2022-04-04 10:09:14 L2PcInstance: Master access level set for character Gmtech [268481866].
+[WARN ] 2022-04-04 10:13:21 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35010 x=-59771 y=-55819 z=-2038
+[WARN ] 2022-04-04 10:13:34 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35020 x=-59771 y=-55819 z=-2038
+[WARN ] 2022-04-04 10:13:48 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35030 x=-59771 y=-55819 z=-2038
+[WARN ] 2022-04-04 10:14:05 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35010 x=-59786 y=-55825 z=-2038
+[WARN ] 2022-04-04 10:14:20 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35020 x=-59786 y=-55825 z=-2038
+[WARN ] 2022-04-04 10:14:36 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35040 x=-59786 y=-55825 z=-2038
+[WARN ] 2022-04-04 10:15:09 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35050 x=-59786 y=-55825 z=-2038
+[WARN ] 2022-04-04 10:15:40 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35052 x=-59797 y=-55862 z=-2038
+[WARN ] 2022-04-04 10:15:49 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35053 x=-59797 y=-55862 z=-2038
+[WARN ] 2022-04-04 10:16:21 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35018 x=-59796 y=-55883 z=-2038
+[WARN ] 2022-04-04 10:16:43 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35023 x=-59865 y=-55911 z=-2038
+[WARN ] 2022-04-04 10:17:08 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35034 x=-59884 y=-55922 z=-2040
+[INFO ] 2022-04-04 10:17:21 GlobalVariablesManager: Stored 8 variables.
+[WARN ] 2022-04-04 10:17:21 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35010 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:17:26 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35011 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:17:31 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35012 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:17:36 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35013 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:17:43 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35014 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:18:21 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35010 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:18:29 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35013 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:18:38 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35014 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:18:45 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35015 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:18:50 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35016 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:18:57 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35017 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:19:04 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35018 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:19:14 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35019 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:19:20 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35020 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:19:28 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35021 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:19:34 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35022 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:19:41 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35023 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:19:49 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35024 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:19:58 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35025 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:20:07 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35026 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:20:13 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35027 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:20:20 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35028 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:20:26 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35029 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:20:32 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35030 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:20:40 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35031 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:20:50 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35032 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:20:56 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35033 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:21:05 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35034 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:21:14 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35035 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:21:20 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35036 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:21:25 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35037 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:21:30 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35038 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:21:36 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35039 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:21:42 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35040 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:21:48 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35041 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:21:56 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35042 x=-59884 y=-55922 z=-2040
+[WARN ] 2022-04-04 10:22:03 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35043 x=-59920 y=-55910 z=-2038
+[WARN ] 2022-04-04 10:22:10 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35044 x=-59920 y=-55910 z=-2038
+[WARN ] 2022-04-04 10:22:14 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35045 x=-59920 y=-55910 z=-2038
+[WARN ] 2022-04-04 10:22:19 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35046 x=-59920 y=-55910 z=-2038
+[WARN ] 2022-04-04 10:22:24 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35047 x=-59920 y=-55910 z=-2038
+[WARN ] 2022-04-04 10:22:29 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35048 x=-59920 y=-55910 z=-2038
+[WARN ] 2022-04-04 10:22:34 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35049 x=-59920 y=-55910 z=-2038
+[WARN ] 2022-04-04 10:22:39 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35050 x=-59920 y=-55910 z=-2038
+[WARN ] 2022-04-04 10:22:50 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35051 x=-59920 y=-55910 z=-2038
+[WARN ] 2022-04-04 10:22:56 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35051 x=-59920 y=-55910 z=-2038
+[WARN ] 2022-04-04 10:23:01 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35052 x=-59920 y=-55910 z=-2038
+[WARN ] 2022-04-04 10:23:07 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35053 x=-59920 y=-55910 z=-2038
+[WARN ] 2022-04-04 10:23:33 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35054 x=-59920 y=-55910 z=-2038
+[WARN ] 2022-04-04 10:23:55 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35055 x=-59920 y=-55910 z=-2038
+[WARN ] 2022-04-04 10:24:01 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35056 x=-59920 y=-55910 z=-2038
+[WARN ] 2022-04-04 10:24:07 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35057 x=-59920 y=-55910 z=-2038
+[WARN ] 2022-04-04 10:24:14 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35058 x=-59920 y=-55910 z=-2038
+[WARN ] 2022-04-04 10:24:20 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35059 x=-59920 y=-55910 z=-2038
+[WARN ] 2022-04-04 10:25:09 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35064 x=-59920 y=-55910 z=-2038
+[WARN ] 2022-04-04 10:25:20 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35065 x=-59920 y=-55910 z=-2038
+[WARN ] 2022-04-04 10:25:29 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35066 x=-59920 y=-55910 z=-2038
+[WARN ] 2022-04-04 10:25:36 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35067 x=-59920 y=-55910 z=-2038
+[WARN ] 2022-04-04 10:25:42 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35068 x=-59920 y=-55910 z=-2038
+[WARN ] 2022-04-04 10:25:47 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35069 x=-59920 y=-55910 z=-2038
+[WARN ] 2022-04-04 10:25:53 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35070 x=-59920 y=-55910 z=-2038
+[WARN ] 2022-04-04 10:26:17 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35070 x=-59948 y=-55891 z=-2038
+[WARN ] 2022-04-04 10:26:23 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35071 x=-59948 y=-55891 z=-2038
+[WARN ] 2022-04-04 10:26:28 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35072 x=-59948 y=-55891 z=-2038
+[WARN ] 2022-04-04 10:26:33 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35073 x=-59948 y=-55891 z=-2038
+[WARN ] 2022-04-04 10:26:42 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35074 x=-59948 y=-55891 z=-2038
+[WARN ] 2022-04-04 10:26:48 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35075 x=-59948 y=-55891 z=-2038
+[WARN ] 2022-04-04 10:26:53 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35076 x=-59948 y=-55891 z=-2038
+[WARN ] 2022-04-04 10:26:59 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35077 x=-59948 y=-55891 z=-2038
+[WARN ] 2022-04-04 10:27:04 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35078 x=-59948 y=-55891 z=-2038
+[WARN ] 2022-04-04 10:27:13 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35079 x=-59948 y=-55891 z=-2038
+[WARN ] 2022-04-04 10:27:21 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35080 x=-59948 y=-55891 z=-2038
+[WARN ] 2022-04-04 10:27:27 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35081 x=-59948 y=-55891 z=-2038
+[WARN ] 2022-04-04 10:27:36 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35082 x=-59948 y=-55891 z=-2038
+[WARN ] 2022-04-04 10:27:43 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35083 x=-59948 y=-55891 z=-2038
+[WARN ] 2022-04-04 10:27:49 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35084 x=-59948 y=-55891 z=-2038
+[WARN ] 2022-04-04 10:27:54 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35085 x=-59948 y=-55891 z=-2038
+[WARN ] 2022-04-04 10:27:57 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35085 x=-59948 y=-55891 z=-2038
+[WARN ] 2022-04-04 10:28:07 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35086 x=-59948 y=-55891 z=-2038
+[WARN ] 2022-04-04 10:28:55 L2GameServerPacket: missing html page data/html/doormen/35093-no.htm
+[WARN ] 2022-04-04 10:36:29 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35106 x=-59078 y=-56892 z=-2040
+[WARN ] 2022-04-04 10:36:35 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35107 x=-59078 y=-56892 z=-2040
+[WARN ] 2022-04-04 10:36:41 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35108 x=-59078 y=-56892 z=-2040
+[WARN ] 2022-04-04 10:36:46 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35109 x=-59078 y=-56892 z=-2040
+[WARN ] 2022-04-04 10:36:52 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35110 x=-59078 y=-56892 z=-2040
+[WARN ] 2022-04-04 10:36:58 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35111 x=-59078 y=-56892 z=-2040
+[WARN ] 2022-04-04 10:37:03 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35112 x=-59078 y=-56892 z=-2040
+[WARN ] 2022-04-04 10:37:09 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35113 x=-59078 y=-56892 z=-2040
+[WARN ] 2022-04-04 10:37:15 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35114 x=-59078 y=-56892 z=-2040
+[WARN ] 2022-04-04 10:37:22 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35115 x=-59078 y=-56892 z=-2040
+[INFO ] 2022-04-04 10:39:01 TaskSevenSignsUpdate: Data updated successfully.
+[WARN ] 2022-04-04 10:42:39 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35411 x=-59082 y=-56825 z=-2038
+[WARN ] 2022-04-04 10:42:53 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35412 x=-59082 y=-56825 z=-2038
+[WARN ] 2022-04-04 10:44:29 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35428 x=-59082 y=-56825 z=-2038
+[WARN ] 2022-04-04 10:45:09 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35470 x=-59082 y=-56825 z=-2038
+[WARN ] 2022-04-04 10:45:15 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35471 x=-59082 y=-56825 z=-2038
+[WARN ] 2022-04-04 10:48:24 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35630 x=-59082 y=-56825 z=-2038
+[WARN ] 2022-04-04 10:48:33 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35631 x=-59082 y=-56825 z=-2038
+[WARN ] 2022-04-04 10:48:45 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35632 x=-59082 y=-56825 z=-2038
+[WARN ] 2022-04-04 10:48:58 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35633 x=-59082 y=-56825 z=-2038
+[WARN ] 2022-04-04 10:49:07 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35634 x=-59082 y=-56825 z=-2038
+[WARN ] 2022-04-04 10:49:12 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35635 x=-59082 y=-56825 z=-2038
+[WARN ] 2022-04-04 10:49:19 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35636 x=-59082 y=-56825 z=-2038
+[WARN ] 2022-04-04 10:49:26 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35637 x=-59082 y=-56825 z=-2038
+[WARN ] 2022-04-04 10:53:28 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35670 x=-59082 y=-56825 z=-2038
+[WARN ] 2022-04-04 10:53:39 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35671 x=-59082 y=-56825 z=-2038
+[WARN ] 2022-04-04 10:53:45 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35672 x=-59082 y=-56825 z=-2038
+[WARN ] 2022-04-04 10:53:51 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35673 x=-59082 y=-56825 z=-2038
+[WARN ] 2022-04-04 10:53:56 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35674 x=-59082 y=-56825 z=-2038
+[WARN ] 2022-04-04 10:54:10 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35676 x=-59082 y=-56825 z=-2038
+[WARN ] 2022-04-04 10:54:22 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35677 x=-59089 y=-56857 z=-2038
+[WARN ] 2022-04-04 10:54:29 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35678 x=-59071 y=-56885 z=-2038
+[WARN ] 2022-04-04 10:54:35 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35679 x=-59071 y=-56885 z=-2038
+[WARN ] 2022-04-04 10:54:42 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35680 x=-59071 y=-56885 z=-2038
+[WARN ] 2022-04-04 10:54:49 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35681 x=-59067 y=-56916 z=-2040
+[WARN ] 2022-04-04 10:54:56 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35682 x=-59067 y=-56916 z=-2040
+[WARN ] 2022-04-04 10:55:03 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35683 x=-59067 y=-56916 z=-2040
+[WARN ] 2022-04-04 10:55:09 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35684 x=-59067 y=-56916 z=-2040
+[WARN ] 2022-04-04 10:57:39 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35711 x=-59095 y=-56900 z=-2038
+[WARN ] 2022-04-04 10:57:55 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35712 x=-59095 y=-56900 z=-2038
+[WARN ] 2022-04-04 10:58:00 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35713 x=-59095 y=-56900 z=-2038
+[WARN ] 2022-04-04 10:58:05 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 35714 x=-59095 y=-56900 z=-2038
+[WARN ] 2022-04-04 10:59:45 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 36520 x=-59095 y=-56900 z=-2038
+[WARN ] 2022-04-04 10:59:50 L2DefenderInstance: L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 36521 x=-59095 y=-56900 z=-2038
+[WARN ] 2022-04-04 11:03:04 AbstractScript: Exception on onSpawn() in notifySpawn(): Cannot invoke "java.lang.Integer.intValue()" because the return value of "java.util.Map.get(Object)" is null
+java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "java.util.Map.get(Object)" is null
+	at com.l2jserver.gameserver.model.entity.Fort.getCastleIdByAmbassador(Fort.java:853) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.entity.Fort.getCastleByAmbassador(Fort.java:861) ~[l2jserver.jar:?]
+	at com.l2jserver.datapack.ai.npc.CastleAmbassador.CastleAmbassador.onSpawn(CastleAmbassador.java:138) ~[?:?]
+	at com.l2jserver.gameserver.model.quest.Quest.notifySpawn(Quest.java:439) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.quest.Quest.lambda$addSpawnId$15(Quest.java:1632) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.events.listeners.ConsumerEventListener.executeEvent(ConsumerEventListener.java:43) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.events.EventDispatcher.notifyToListeners(EventDispatcher.java:183) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.events.EventDispatcher.notifyEventToMultipleContainers(EventDispatcher.java:129) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.events.EventDispatcher.lambda$notifyEventAsync$0(EventDispatcher.java:82) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:86) [l2jserver.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[INFO ] 2022-04-04 11:09:01 TaskSevenSignsUpdate: Data updated successfully.

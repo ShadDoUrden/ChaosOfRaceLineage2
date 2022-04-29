@@ -1,0 +1,4 @@
+[WARN ] 2022-03-12 13:33:22 IXmlReader: BuyListData: Folder E:\l2jserver\server\Game\data\buylists\custom doesn't exist!
+[WARN ] 2022-03-12 13:33:23 IXmlReader: MultisellData: Folder E:\l2jserver\server\Game\data\multisell\custom doesn't exist!
+[WARN ] 2022-03-12 18:32:49 HikariPool: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4h6m46s123ms360µs800ns).
+[WARN ] 2022-03-12 21:09:30 HikariPool: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h48m11s970ms740µs600ns).

@@ -1,0 +1,13 @@
+[WARN ] 2022-04-13 18:25:57 IXmlReader: BuyListData: Folder E:\l2jserver\server\Game\data\buylists\custom doesn't exist!
+[WARN ] 2022-04-13 18:25:57 IXmlReader: MultisellData: Folder E:\l2jserver\server\Game\data\multisell\custom doesn't exist!
+[ERROR] 2022-04-13 18:26:11 GameServer: Failed to open server socket!
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method) ~[?:?]
+	at sun.nio.ch.Net.bind(Net.java:555) ~[?:?]
+	at sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:337) ~[?:?]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:294) ~[?:?]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:89) ~[?:?]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:81) ~[?:?]
+	at com.l2jserver.mmocore.SelectorThread.openServerSocket(SelectorThread.java:116) ~[l2j-server-mmocore-2.6.3.0.jar:?]
+	at com.l2jserver.gameserver.GameServer.<init>(GameServer.java:433) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.GameServer.main(GameServer.java:472) [l2jserver.jar:?]

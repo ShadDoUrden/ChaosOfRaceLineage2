@@ -1,0 +1,16 @@
+[WARN ] 2022-03-20 17:30:20 IXmlReader: BuyListData: Folder E:\l2jserver\server\Game\data\buylists\custom doesn't exist!
+[WARN ] 2022-03-20 17:30:20 IXmlReader: MultisellData: Folder E:\l2jserver\server\Game\data\multisell\custom doesn't exist!
+[WARN ] 2022-03-20 18:29:36 AbstractScript: Q00625_TheFinestIngredientsPart2
+java.lang.NullPointerException: Cannot invoke "com.l2jserver.gameserver.model.actor.instance.L2PcInstance.getQuestState(String)" because "player" is null
+	at com.l2jserver.gameserver.model.quest.Quest.getQuestState(Quest.java:191) [l2jserver.jar:?]
+	at com.l2jserver.datapack.quests.Q00625_TheFinestIngredientsPart2.Q00625_TheFinestIngredientsPart2.onAdvEvent(Q00625_TheFinestIngredientsPart2.java:71) ~[?:?]
+	at com.l2jserver.gameserver.model.quest.Quest.notifyEvent(Quest.java:459) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.quest.QuestTimer$ScheduleTimerTask.run(QuestTimer.java:43) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:86) [l2jserver.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[WARN ] 2022-03-20 19:08:06 LoginServerThread: LoginServer not avaible, trying to reconnect...

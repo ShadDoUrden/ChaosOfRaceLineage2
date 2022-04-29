@@ -1,0 +1,256 @@
+[INFO ] 2022-04-13 17:55:50 GameServer: ------------------------------------------------=[ Database ]
+[INFO ] 2022-04-13 17:55:50 GameServer: -----------------------------------=[ Network Configuration ]
+[INFO ] 2022-04-13 17:55:50 IPConfigData: Using automatic network configuration.
+[INFO ] 2022-04-13 17:55:50 IPConfigData: Adding new subnet: 127.0.0.0/8 address: 127.0.0.1
+[INFO ] 2022-04-13 17:55:50 IPConfigData: Adding new subnet: 192.168.1.0/24 address: 192.168.1.22
+[INFO ] 2022-04-13 17:55:50 IPConfigData: Adding new subnet: 0.0.0.0/0 address: 90.63.83.82
+[INFO ] 2022-04-13 17:55:50 HikariDataSource: HikariPool-1 - Starting...
+[INFO ] 2022-04-13 17:55:50 HikariDataSource: HikariPool-1 - Start completed.
+[INFO ] 2022-04-13 17:55:50 IdFactory: Updated characters online status.
+[INFO ] 2022-04-13 17:55:51 IdFactory: Cleaned 0 elements from database in 0s.
+[INFO ] 2022-04-13 17:55:51 IdFactory: Cleaned 0 expired timestamps from database.
+[INFO ] 2022-04-13 17:55:51 BitSetIDFactory: 102912 Ids available.
+[INFO ] 2022-04-13 17:55:51 GameServer: ---------------------------------------------------=[ World ]
+[INFO ] 2022-04-13 17:55:51 InstanceManager: Multiverse Instance created.
+[INFO ] 2022-04-13 17:55:51 InstanceManager: Universe Instance created.
+[INFO ] 2022-04-13 17:55:51 InstanceManager: Loaded 160 instance names.
+[INFO ] 2022-04-13 17:55:51 L2World: 128 by 136 world region grid set up.
+[INFO ] 2022-04-13 17:55:51 MapRegionManager: Loaded 57 map regions.
+[INFO ] 2022-04-13 17:55:51 GlobalVariablesManager: Loaded 8 variables.
+[INFO ] 2022-04-13 17:55:51 GameServer: ----------------------------------------------------=[ Data ]
+[INFO ] 2022-04-13 17:55:51 CategoryData: Loaded 124 Categories.
+[INFO ] 2022-04-13 17:55:51 SecondaryAuthData: Loaded 328 forbidden passwords.
+[INFO ] 2022-04-13 17:55:51 GameServer: -------------------------------------------------=[ Effects ]
+[INFO ] 2022-04-13 17:55:53 EffectMasterHandler: Loaded 169 effect handlers.
+[INFO ] 2022-04-13 17:55:53 GameServer: ------------------------------------=[ Enchant Skill Groups ]
+[INFO ] 2022-04-13 17:55:53 EnchantSkillGroupsData: Loaded 4 groups and 90 routes.
+[INFO ] 2022-04-13 17:55:53 GameServer: ---------------------------------------------=[ Skill Trees ]
+[INFO ] 2022-04-13 17:55:54 SkillTreesData: Loaded 17176 Class Skills for 103 Class Skill Trees.
+[INFO ] 2022-04-13 17:55:54 SkillTreesData: Loaded 76 Sub-Class Skills.
+[INFO ] 2022-04-13 17:55:54 SkillTreesData: Loaded 77 Transfer Skills for 3 Transfer Skill Trees.
+[INFO ] 2022-04-13 17:55:54 SkillTreesData: Loaded 117 Fishing Skills, 8 Dwarven only Fishing Skills.
+[INFO ] 2022-04-13 17:55:54 SkillTreesData: Loaded 3 Collect Skills.
+[INFO ] 2022-04-13 17:55:54 SkillTreesData: Loaded 74 Pledge Skills, 44 for Pledge and 30 Residential.
+[INFO ] 2022-04-13 17:55:54 SkillTreesData: Loaded 18 Sub-Pledge Skills.
+[INFO ] 2022-04-13 17:55:54 SkillTreesData: Loaded 32 Transform Skills.
+[INFO ] 2022-04-13 17:55:54 SkillTreesData: Loaded 8 Noble Skills.
+[INFO ] 2022-04-13 17:55:54 SkillTreesData: Loaded 5 Hero Skills.
+[INFO ] 2022-04-13 17:55:54 SkillTreesData: Loaded 46 Game Master Skills.
+[INFO ] 2022-04-13 17:55:54 SkillTreesData: Loaded 46 Game Master Aura Skills.
+[INFO ] 2022-04-13 17:55:54 GameServer: --------------------------------------------------=[ Skills ]
+[INFO ] 2022-04-13 17:56:02 DocumentEngine: Loaded 65976 skill templates from XML files.
+[INFO ] 2022-04-13 17:56:02 SummonSkillsTable: Loaded 1891 summon skills.
+[INFO ] 2022-04-13 17:56:02 GameServer: ---------------------------------------------------=[ Items ]
+[INFO ] 2022-04-13 17:56:04 ItemTable: Highest item Id used 40000.
+[INFO ] 2022-04-13 17:56:04 ItemTable: Loaded 11482 Etc items.
+[INFO ] 2022-04-13 17:56:04 ItemTable: Loaded 3825 Armor items.
+[INFO ] 2022-04-13 17:56:04 ItemTable: Loaded 3893 Weapon items.
+[INFO ] 2022-04-13 17:56:04 ItemTable: Loaded 19200 items in total.
+[INFO ] 2022-04-13 17:56:04 EnchantItemGroupsData: Loaded 4 item group templates.
+[INFO ] 2022-04-13 17:56:04 EnchantItemGroupsData: Loaded 1 scroll group templates.
+[INFO ] 2022-04-13 17:56:04 EnchantItemData: Loaded 63 enchant scrolls.
+[INFO ] 2022-04-13 17:56:04 EnchantItemData: Loaded 20 support items.
+[INFO ] 2022-04-13 17:56:04 EnchantItemOptionsData: Loaded 23 items and 1093 options.
+[INFO ] 2022-04-13 17:56:05 OptionData: Loaded 24985 item options.
+[INFO ] 2022-04-13 17:56:05 EnchantItemHPBonusData: Loaded 6 Enchant HP Bonuses.
+[INFO ] 2022-04-13 17:56:05 MerchantPriceConfigTable: Loaded 28 merchant price configs.
+[WARN ] 2022-04-13 17:56:06 IXmlReader: BuyListData: Folder E:\l2jserver\server\Game\data\buylists\custom doesn't exist!
+[INFO ] 2022-04-13 17:56:06 BuyListData: Loaded 760 buy lists.
+[WARN ] 2022-04-13 17:56:07 IXmlReader: MultisellData: Folder E:\l2jserver\server\Game\data\multisell\custom doesn't exist!
+[INFO ] 2022-04-13 17:56:07 MultisellData: Loaded 192 multisell lists.
+[INFO ] 2022-04-13 17:56:07 RecipeData: Loaded 1000 recipes.
+[INFO ] 2022-04-13 17:56:07 ArmorSetsData: Loaded 204 armor sets.
+[INFO ] 2022-04-13 17:56:07 FishData: Loaded 278 fish.
+[INFO ] 2022-04-13 17:56:07 FishingMonstersData: Loaded 8 fishing monsters.
+[INFO ] 2022-04-13 17:56:07 FishingRodsData: Loaded 6 fishing rods.
+[INFO ] 2022-04-13 17:56:07 HennaData: Loaded 180 Henna data.
+[INFO ] 2022-04-13 17:56:07 GameServer: ----------------------------------------------=[ Characters ]
+[INFO ] 2022-04-13 17:56:07 ClassListData: Loaded 107 class data.
+[INFO ] 2022-04-13 17:56:07 InitialEquipmentData: Loaded 11 initial equipment data.
+[INFO ] 2022-04-13 17:56:07 InitialShortcutData: Loaded 5 initial dlobal shortcuts data.
+[INFO ] 2022-04-13 17:56:07 InitialShortcutData: Loaded 4 initial shortcuts data.
+[INFO ] 2022-04-13 17:56:07 InitialShortcutData: Loaded 0 macros presets.
+[INFO ] 2022-04-13 17:56:07 KarmaData: Loaded 85 karma modifiers.
+[INFO ] 2022-04-13 17:56:07 HitConditionBonusData: Loaded Hit Condition bonuses.
+[INFO ] 2022-04-13 17:56:07 PlayerTemplateData: Loaded 103 character templates.
+[INFO ] 2022-04-13 17:56:07 PlayerTemplateData: Loaded 52530 level up gain records.
+[INFO ] 2022-04-13 17:56:07 PlayerCreationPointData: Loaded 62 character creation points.
+[INFO ] 2022-04-13 17:56:07 CharNameTable: Loaded 1 char names.
+[INFO ] 2022-04-13 17:56:07 AdminData: Loaded 10 access levels.
+[INFO ] 2022-04-13 17:56:07 AdminData: Loaded 444 access commands.
+[INFO ] 2022-04-13 17:56:07 RaidBossPointsManager: Loaded 0 characters raid points.
+[INFO ] 2022-04-13 17:56:08 PetDataTable: Loaded 52 Pets.
+[INFO ] 2022-04-13 17:56:08 GameServer: -----------------------------------------------------=[ BBS ]
+[INFO ] 2022-04-13 17:56:08 ForumsBBSManager: Loaded 4 forums.
+[INFO ] 2022-04-13 17:56:08 GameServer: ---------------------------------------------------=[ Clans ]
+[INFO ] 2022-04-13 17:56:08 ClanTable: Restored 0 clans from the database.
+[INFO ] 2022-04-13 17:56:08 AuctionManager: Loaded 38 auction(s).
+[INFO ] 2022-04-13 17:56:08 ClanHallManager: Loaded 0 clan halls.
+[INFO ] 2022-04-13 17:56:08 ClanHallManager: Loaded 38 free clan halls.
+[INFO ] 2022-04-13 17:56:08 ClanHallSiegeManager: Loaded 6 conquerable clan halls.
+[INFO ] 2022-04-13 17:56:08 GameServer: -------------------------------------------------=[ Geodata ]
+[INFO ] 2022-04-13 17:56:08 GeoData: Loaded 0 regions.
+[INFO ] 2022-04-13 17:56:08 GameServer: ----------------------------------------------------=[ NPCs ]
+[INFO ] 2022-04-13 17:56:08 SkillLearnData: Loaded 256 skill learn data.
+[INFO ] 2022-04-13 17:56:08 NpcData$MinionData: Loaded 128 minions data.
+[INFO ] 2022-04-13 17:56:10 NpcData: Loaded 10461 NPCs.
+[INFO ] 2022-04-13 17:56:10 NpcData: Loaded 11 custom NPCs.
+[INFO ] 2022-04-13 17:56:11 WalkingManager: Loaded 127 walking routes.
+[INFO ] 2022-04-13 17:56:11 StaticObjectData: Loaded 51 static object templates.
+[INFO ] 2022-04-13 17:56:11 GrandBossManager: Queen Ant (29001) status is 0.
+[INFO ] 2022-04-13 17:56:11 GrandBossManager: Core (29006) status is 0.
+[INFO ] 2022-04-13 17:56:11 GrandBossManager: Orfen (29014) status is 0.
+[INFO ] 2022-04-13 17:56:11 GrandBossManager: Baium (29020) status is 0.
+[INFO ] 2022-04-13 17:56:11 GrandBossManager: Valakas (29028) status is 0.
+[INFO ] 2022-04-13 17:56:11 GrandBossManager: Antharas (29068) status is 0.
+[INFO ] 2022-04-13 17:56:11 GrandBossManager: Beleth (29118) status is 0.
+[INFO ] 2022-04-13 17:56:11 GrandBossManager: Loaded 7 grand boss instances.
+[INFO ] 2022-04-13 17:56:12 DoorData: Loaded 1301 door templates for 22 regions.
+[INFO ] 2022-04-13 17:56:13 ZoneManager: Loaded 28 zone classes and 2794 zones.
+[INFO ] 2022-04-13 17:56:13 ZoneManager: Loaded 0 NPC spawn territoriers.
+[INFO ] 2022-04-13 17:56:13 CastleManager: Loaded 9 castles.
+[INFO ] 2022-04-13 17:56:13 NpcBufferTable: Loaded 2 buffers and 64 skills.
+[INFO ] 2022-04-13 17:56:13 GrandBossManager: Initialized 12 grand boss zones.
+[INFO ] 2022-04-13 17:56:13 GameServer: -----------------------------------------=[ Auction Manager ]
+[INFO ] 2022-04-13 17:56:13 ItemAuctionInstance: Loaded 82 item(s) and registered 3 auction(s) for NPC ID 32320.
+[INFO ] 2022-04-13 17:56:13 ItemAuctionInstance: Schedule next auction ID 18 on 17:00:00 15.04.22 for NPC ID 32320.
+[INFO ] 2022-04-13 17:56:13 ItemAuctionInstance: Loaded 82 item(s) and registered 3 auction(s) for NPC ID 32321.
+[INFO ] 2022-04-13 17:56:13 ItemAuctionInstance: Schedule next auction ID 19 on 17:00:00 18.04.22 for NPC ID 32321.
+[INFO ] 2022-04-13 17:56:13 ItemAuctionInstance: Loaded 82 item(s) and registered 3 auction(s) for NPC ID 32322.
+[INFO ] 2022-04-13 17:56:13 ItemAuctionInstance: Schedule current auction ID 17 for NPC ID 32322.
+[INFO ] 2022-04-13 17:56:13 ItemAuctionManager: Loaded 3 auction manager instance(s).
+[INFO ] 2022-04-13 17:56:13 GameServer: ------------------------------------------------=[ Olympiad ]
+[INFO ] 2022-04-13 17:56:13 ItemAuctionInstance$ScheduleAuctionTask: Auction ID 17 has started for NPC ID 32322.
+[INFO ] 2022-04-13 17:56:13 ItemAuctionInstance: Schedule current auction ID 17 for NPC ID 32322.
+[INFO ] 2022-04-13 17:56:13 Olympiad: Loading Olympiad System....
+[INFO ] 2022-04-13 17:56:13 Olympiad: Currently in Olympiad Period
+[INFO ] 2022-04-13 17:56:13 Olympiad: 25563 minutes until period ends
+[INFO ] 2022-04-13 17:56:13 Olympiad: Next weekly change is in 0 minutes
+[INFO ] 2022-04-13 17:56:13 Olympiad: Loaded 0 Nobles
+[INFO ] 2022-04-13 17:56:13 Olympiad: Competition Period Starts in 0 days, 0 hours and 3 mins.
+[INFO ] 2022-04-13 17:56:13 Olympiad: Event starts/started : Wed Apr 13 18:00:13 CEST 2022
+[INFO ] 2022-04-13 17:56:13 Olympiad: Added weekly points to nobles
+[INFO ] 2022-04-13 17:56:13 Olympiad: Reset weekly matches to nobles
+[INFO ] 2022-04-13 17:56:13 Hero: Loaded 0 Heroes.
+[INFO ] 2022-04-13 17:56:13 Hero: Loaded 0 all time Heroes.
+[INFO ] 2022-04-13 17:56:13 GameServer: ---------------------------------------------=[ Seven Signs ]
+[INFO ] 2022-04-13 17:56:13 SevenSigns: Currently in the Quest Event Initialization period.
+[INFO ] 2022-04-13 17:56:13 SevenSigns: The Seal of Avarice remains unclaimed.
+[INFO ] 2022-04-13 17:56:13 SevenSigns: The Seal of Gnosis remains unclaimed.
+[INFO ] 2022-04-13 17:56:13 SevenSigns: The Seal of Strife remains unclaimed.
+[INFO ] 2022-04-13 17:56:13 SevenSigns: The competition, if the current trend continues, will end in a tie this week.
+[INFO ] 2022-04-13 17:56:13 SevenSigns: Next period change was in the past (server was offline), changing periods now!
+[INFO ] 2022-04-13 17:56:13 SevenSigns: Next period begins in 0 days, 0 hours and 0 mins.
+[INFO ] 2022-04-13 17:56:13 GameServer: ---------------------------------------------------=[ Cache ]
+[INFO ] 2022-04-13 17:56:13 HtmCache: Running lazy cache.
+[INFO ] 2022-04-13 17:56:13 SevenSignsFestival: The first Festival of Darkness cycle begins in 2 minute(s).
+[INFO ] 2022-04-13 17:56:13 CrestTable: Loaded 0 crests.
+[INFO ] 2022-04-13 17:56:13 TeleportLocationTable: Loaded 957 teleport location templates.
+[INFO ] 2022-04-13 17:56:13 UIData: Loaded 4 keys 5 categories.
+[INFO ] 2022-04-13 17:56:13 AutoSpawnHandler: Loaded 129 handlers.
+[INFO ] 2022-04-13 17:56:13 SevenSigns: The Competition (Quest Event) period has begun!
+[INFO ] 2022-04-13 17:56:13 SevenSigns: Next period change set to 2022-04-18T18:00:13.152+0200.
+[INFO ] 2022-04-13 17:56:13 AugmentationData: Loaded 33960 augmentations.
+[INFO ] 2022-04-13 17:56:13 AugmentationData: Loaded 2754 accessory augmentations.
+[INFO ] 2022-04-13 17:56:13 CursedWeaponsManager: Loaded 2 cursed weapon(s).
+[INFO ] 2022-04-13 17:56:13 TransformData: Loaded 111 transform templates.
+[INFO ] 2022-04-13 17:56:13 BotReportTable: Loaded 0 bot reports.
+[INFO ] 2022-04-13 17:56:13 AirShipManager: Loaded 0 private airships.
+[INFO ] 2022-04-13 17:56:13 GameServer: ------------------------------------------------=[ Handlers ]
+[INFO ] 2022-04-13 17:56:16 MasterHandler: Loaded 5 Voiced Command Handler.
+[INFO ] 2022-04-13 17:56:16 MasterHandler: Loaded 10 Action Handler.
+[INFO ] 2022-04-13 17:56:16 MasterHandler: Loaded 6 Action Shift Handler.
+[INFO ] 2022-04-13 17:56:16 MasterHandler: Loaded 447 Admin Command Handler.
+[INFO ] 2022-04-13 17:56:16 MasterHandler: Loaded 48 Bypass Handler.
+[INFO ] 2022-04-13 17:56:16 MasterHandler: Loaded 14 Chat Handler.
+[INFO ] 2022-04-13 17:56:16 MasterHandler: Loaded 15 Community Board Handler.
+[INFO ] 2022-04-13 17:56:16 MasterHandler: Loaded 31 Item Handler.
+[INFO ] 2022-04-13 17:56:16 MasterHandler: Loaded 3 Punishment Handler.
+[INFO ] 2022-04-13 17:56:16 MasterHandler: Loaded 17 User Command Handler.
+[INFO ] 2022-04-13 17:56:16 MasterHandler: Loaded 20 Telnet Handler.
+[INFO ] 2022-04-13 17:56:16 GameServer: ------------------------------------------------------=[ AI ]
+[INFO ] 2022-04-13 17:56:19 NpcBuffersData: Loaded 33 buffers data.
+[INFO ] 2022-04-13 17:56:19 HandysBlockCheckerEvent: Loaded Handy's Block Checker event.
+[INFO ] 2022-04-13 17:56:19 AILoader: Loaded 179 AI scripts.
+[INFO ] 2022-04-13 17:56:19 GameServer: -----------------------------------------------=[ Instances ]
+[INFO ] 2022-04-13 17:56:20 InstanceLoader: Loaded 30 instnaces.
+[INFO ] 2022-04-13 17:56:20 GameServer: --------------------------------------------------=[ Gracia ]
+[INFO ] 2022-04-13 17:56:21 GraciaLoader: Loaded 28 Gracia scripts.
+[INFO ] 2022-04-13 17:56:21 GameServer: -----------------------------------------------=[ Hellbound ]
+[INFO ] 2022-04-13 17:56:22 HellboundPointData: Loaded 47 trust point reward data.
+[INFO ] 2022-04-13 17:56:22 HellboundSpawns: Loaded 598 Hellbound spawns.
+[INFO ] 2022-04-13 17:56:22 HellboundEngine: Level 9.
+[INFO ] 2022-04-13 17:56:22 HellboundEngine: Trust 2000001.
+[INFO ] 2022-04-13 17:56:22 HellboundEngine: Status unlocked.
+[INFO ] 2022-04-13 17:56:22 RaidBossSpawnManager: Spawning raid bosses...
+[INFO ] 2022-04-13 17:56:22 RaidBossSpawnManager: Loaded 1 bosses.
+[INFO ] 2022-04-13 17:56:22 RaidBossSpawnManager: Scheduled 0 boss instances.
+[INFO ] 2022-04-13 17:56:22 HellboundLoader: Loaded 34 Hellbound scripts.
+[INFO ] 2022-04-13 17:56:22 GameServer: --------------------------------------------------=[ Quests ]
+[INFO ] 2022-04-13 17:56:23 HellboundEngine: Spawned 366 NPCs.
+[INFO ] 2022-04-13 17:56:28 Q00350_EnhanceYourWeapon: Loaded 54 soul crystal data.
+[INFO ] 2022-04-13 17:56:28 Q00350_EnhanceYourWeapon: Loaded 240 npc leveling data.
+[INFO ] 2022-04-13 17:56:28 QuestLoader: Loaded 502 quests.
+[INFO ] 2022-04-13 17:56:28 AbstractScript: TerritoryWarSuperClass: Siege date: Sun Apr 17 22:00:00 CEST 2022
+[INFO ] 2022-04-13 17:56:28 GameServer: -------------------------------------------------=[ Scripts ]
+[INFO ] 2022-04-13 17:56:29 ClanHallSiegeEngine: Fortress of the Dead siege scheduled for 2022-04-17T12:00:00.293+0200.
+[INFO ] 2022-04-13 17:56:29 DiscordBot: Discord Bot is Disabled.
+[INFO ] 2022-04-13 17:56:29 ClanHallSiegeEngine: Beast Farm siege scheduled for 2022-04-17T12:00:00.295+0200.
+[INFO ] 2022-04-13 17:56:29 ClanHallSiegeEngine: Rainbow Springs siege scheduled for 2022-04-17T12:00:00.291+0200.
+[INFO ] 2022-04-13 17:56:29 TeleporterService: Disabled.
+[INFO ] 2022-04-13 17:56:29 BufferService: Disabled.
+[INFO ] 2022-04-13 17:56:29 ClanHallSiegeEngine: Bandit Stronghold siege scheduled for 2022-04-17T12:00:00.295+0200.
+[INFO ] 2022-04-13 17:56:29 ClanHallSiegeEngine: Devastated Castle siege scheduled for 2022-04-17T12:00:00.291+0200.
+[INFO ] 2022-04-13 17:56:29 ClanHallSiegeEngine: Fortress of Resistance siege scheduled for 2022-04-17T12:00:00.162+0200.
+[INFO ] 2022-04-13 17:56:29 SpawnTable: Loaded 61 NPC spawns.
+[INFO ] 2022-04-13 17:56:29 SpawnTable: Loaded 0 custom NPC spawns.
+[INFO ] 2022-04-13 17:56:29 SpawnTable: Loaded 1190 NPC spawns from XML.
+[INFO ] 2022-04-13 17:56:29 FourSepulchersManager: Loaded 20 Mysterious-Box spawns.
+[INFO ] 2022-04-13 17:56:29 FourSepulchersManager: Loaded 716 Physical type monsters spawns.
+[INFO ] 2022-04-13 17:56:29 FourSepulchersManager: Loaded 716 Magical monsters spawns.
+[INFO ] 2022-04-13 17:56:29 FourSepulchersManager: Loaded 92 Church of duke monsters spawns.
+[INFO ] 2022-04-13 17:56:29 FourSepulchersManager: Loaded 68 Emperor's Grave spawns.
+[INFO ] 2022-04-13 17:56:29 FourSepulchersManager: Spawned Conquerors' Sepulcher Manager.
+[INFO ] 2022-04-13 17:56:29 FourSepulchersManager: Spawned Emperors' Sepulcher Manager.
+[INFO ] 2022-04-13 17:56:29 FourSepulchersManager: Spawned Great Sages' Sepulcher Manager.
+[INFO ] 2022-04-13 17:56:29 FourSepulchersManager: Spawned Judges' Sepulcher Manager.
+[INFO ] 2022-04-13 17:56:29 FourSepulchersManager: Beginning in entry time
+[INFO ] 2022-04-13 17:56:29 DimensionalRiftManager: Loaded 7 room types with 56 rooms.
+[INFO ] 2022-04-13 17:56:29 DimensionalRiftManager: Loaded 462 Dimensional Rift spawns.
+[INFO ] 2022-04-13 17:56:29 GameServer: ---------------------------------------------------=[ Siege ]
+[INFO ] 2022-04-13 17:56:29 Siege: Siege of Gludio: 2022-04-17T16:00:00.590+0200.
+[INFO ] 2022-04-13 17:56:29 Siege: Siege of Dion: 2022-04-17T16:00:00.599+0200.
+[INFO ] 2022-04-13 17:56:29 Siege: Siege of Giran: 2022-04-17T16:00:00.602+0200.
+[INFO ] 2022-04-13 17:56:29 Siege: Siege of Oren: 2022-04-17T16:00:00.605+0200.
+[INFO ] 2022-04-13 17:56:29 Siege: Siege of Aden: 2022-04-17T16:00:00.609+0200.
+[INFO ] 2022-04-13 17:56:29 Siege: Siege of Innadril: 2022-04-17T20:00:00.611+0200.
+[INFO ] 2022-04-13 17:56:29 Siege: Siege of Goddard: 2022-04-17T20:00:00.613+0200.
+[INFO ] 2022-04-13 17:56:29 Siege: Siege of Rune: 2022-04-17T20:00:00.615+0200.
+[INFO ] 2022-04-13 17:56:29 Siege: Siege of Schuttgart: 2022-04-17T20:00:00.617+0200.
+[INFO ] 2022-04-13 17:56:29 FortManager: Loaded 21 fortress.
+[INFO ] 2022-04-13 17:56:30 SiegeScheduleData: Loaded 2 siege schedulers.
+[INFO ] 2022-04-13 17:56:30 CastleManorManager: Loaded 258 seeds.
+[INFO ] 2022-04-13 17:56:30 CastleManorManager: Manor data loaded.
+[INFO ] 2022-04-13 17:56:30 MercTicketManager: Loaded 0 mercenary tickets.
+[INFO ] 2022-04-13 17:56:30 FaenorEventParser: Event Id Valentines Event has passed... Ignored.
+[INFO ] 2022-04-13 17:56:30 FaenorScriptEngine: Loaded Valentines.xml successfully.
+[INFO ] 2022-04-13 17:56:30 TaskManager: Loaded 13 tasks.
+[INFO ] 2022-04-13 17:56:30 MailManager: Successfully loaded 0 messages.
+[INFO ] 2022-04-13 17:56:30 PunishmentManager: Loaded 0 active and 0 expired punishments.
+[INFO ] 2022-04-13 17:56:30 GameServer: Free Object Ids remaining 1879043755.
+[INFO ] 2022-04-13 17:56:30 TvTManager: Engine is disabled.
+[INFO ] 2022-04-13 17:56:30 GameServer: Started, free memory 1821 Mb of 2048 Mb
+[INFO ] 2022-04-13 17:56:30 LoginServerThread: Connecting to login server on 127.0.0.1:9014
+[INFO ] 2022-04-13 17:56:30 LoginServerThread: Registered on login as Server 1: Bartz
+[INFO ] 2022-04-13 17:56:30 GameServer: Now listening on *:7777
+[INFO ] 2022-04-13 17:56:30 GameServer: ----------------------------------------------------=[ UPnP ]
+[INFO ] 2022-04-13 17:56:30 UPnPService: Looking for UPnP Gateway Devices...
+[INFO ] 2022-04-13 17:56:30 UPnPService: Using UPnP gateway: Orange Livebox
+[INFO ] 2022-04-13 17:56:30 UPnPService: Using local address: 192.168.1.22 External address: 90.63.83.82
+[INFO ] 2022-04-13 17:56:30 UPnPService: Mapping successful on 192.168.1.22:7777
+[INFO ] 2022-04-13 17:56:30 GameServer: Telnet server is currently disabled.
+[INFO ] 2022-04-13 17:56:30 GameServer: Maximum numbers of connected players 500.
+[INFO ] 2022-04-13 17:56:30 GameServer: Server Bartz loaded in 40 seconds.
+[INFO ] 2022-04-13 17:59:00 L2PcInstance: Master access level set for character Gmtech [268481866].
+[INFO ] 2022-04-13 18:00:13 Olympiad: Olympiad Game Started
+[INFO ] 2022-04-13 18:00:13 OlympiadGameManager: Loaded 160 stadiums.

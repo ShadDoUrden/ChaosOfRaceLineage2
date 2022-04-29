@@ -1,0 +1,40 @@
+[INFO ] 2022-04-03 16:00:34 GameServer: ------------------------------------------------=[ Database ]
+[INFO ] 2022-04-03 16:00:34 GameServer: -----------------------------------=[ Network Configuration ]
+[INFO ] 2022-04-03 16:00:34 IPConfigData: Using automatic network configuration.
+[INFO ] 2022-04-03 16:00:34 IPConfigData: Adding new subnet: 127.0.0.0/8 address: 127.0.0.1
+[INFO ] 2022-04-03 16:00:34 IPConfigData: Adding new subnet: 192.168.1.0/24 address: 192.168.1.22
+[INFO ] 2022-04-03 16:00:34 IPConfigData: Adding new subnet: 0.0.0.0/0 address: 90.63.83.82
+[INFO ] 2022-04-03 16:00:34 HikariDataSource: HikariPool-1 - Starting...
+[INFO ] 2022-04-03 16:00:34 HikariDataSource: HikariPool-1 - Start completed.
+[INFO ] 2022-04-03 16:00:34 IdFactory: Updated characters online status.
+[INFO ] 2022-04-03 16:00:34 IdFactory: Cleaned 0 elements from database in 0s.
+[INFO ] 2022-04-03 16:00:34 IdFactory: Cleaned 0 expired timestamps from database.
+[INFO ] 2022-04-03 16:00:34 BitSetIDFactory: 205824 Ids available.
+[INFO ] 2022-04-03 16:00:34 GameServer: ---------------------------------------------------=[ World ]
+[INFO ] 2022-04-03 16:00:34 InstanceManager: Multiverse Instance created.
+[INFO ] 2022-04-03 16:00:34 InstanceManager: Universe Instance created.
+[INFO ] 2022-04-03 16:00:35 InstanceManager: Loaded 160 instance names.
+[INFO ] 2022-04-03 16:00:35 L2World: 128 by 136 world region grid set up.
+[INFO ] 2022-04-03 16:00:35 MapRegionManager: Loaded 57 map regions.
+[INFO ] 2022-04-03 16:00:35 GlobalVariablesManager: Loaded 8 variables.
+[INFO ] 2022-04-03 16:00:35 GameServer: ----------------------------------------------------=[ Data ]
+[INFO ] 2022-04-03 16:00:35 CategoryData: Loaded 124 Categories.
+[INFO ] 2022-04-03 16:00:35 SecondaryAuthData: Loaded 328 forbidden passwords.
+[INFO ] 2022-04-03 16:00:35 GameServer: -------------------------------------------------=[ Effects ]
+[INFO ] 2022-04-03 16:00:37 EffectMasterHandler: Loaded 169 effect handlers.
+[INFO ] 2022-04-03 16:00:37 GameServer: ------------------------------------=[ Enchant Skill Groups ]
+[INFO ] 2022-04-03 16:00:37 EnchantSkillGroupsData: Loaded 4 groups and 90 routes.
+[INFO ] 2022-04-03 16:00:37 GameServer: ---------------------------------------------=[ Skill Trees ]
+[INFO ] 2022-04-03 16:00:38 SkillTreesData: Loaded 17176 Class Skills for 103 Class Skill Trees.
+[INFO ] 2022-04-03 16:00:38 SkillTreesData: Loaded 76 Sub-Class Skills.
+[INFO ] 2022-04-03 16:00:38 SkillTreesData: Loaded 77 Transfer Skills for 3 Transfer Skill Trees.
+[INFO ] 2022-04-03 16:00:38 SkillTreesData: Loaded 117 Fishing Skills, 8 Dwarven only Fishing Skills.
+[INFO ] 2022-04-03 16:00:38 SkillTreesData: Loaded 3 Collect Skills.
+[INFO ] 2022-04-03 16:00:38 SkillTreesData: Loaded 74 Pledge Skills, 44 for Pledge and 30 Residential.
+[INFO ] 2022-04-03 16:00:38 SkillTreesData: Loaded 18 Sub-Pledge Skills.
+[INFO ] 2022-04-03 16:00:38 SkillTreesData: Loaded 32 Transform Skills.
+[INFO ] 2022-04-03 16:00:38 SkillTreesData: Loaded 8 Noble Skills.
+[INFO ] 2022-04-03 16:00:38 SkillTreesData: Loaded 5 Hero Skills.
+[INFO ] 2022-04-03 16:00:38 SkillTreesData: Loaded 46 Game Master Skills.
+[INFO ] 2022-04-03 16:00:38 SkillTreesData: Loaded 46 Game Master Aura Skills.
+[INFO ] 2022-04-03 16:00:38 GameServer: --------------------------------------------------=[ Skills ]
